@@ -1,0 +1,398 @@
+#EXTINF:-1 tvg-id="ZDFinfo.de" tvg-name="|.DE.| ZDF INFO HD" tvg-logo="http://one-iptv.com/imageslogo/ZDFinfo.de.png" group-title="DEUTSCHLAND",|.DE.| ZDF INFO HD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70314.ts
+#EXTINF:-1 tvg-id="ZDF.de" tvg-name="|.DE.| ZDF" tvg-logo="http://one-iptv.com/imageslogo/ZDF.de.png" group-title="DEUTSCHLAND",|.DE.| ZDF
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/59883.ts
+#EXTINF:-1 tvg-id="ZDF.de" tvg-name="|.DE.| ZDF HD" tvg-logo="http://one-iptv.com/imageslogo/ZDF.de.png" group-title="DEUTSCHLAND",|.DE.| ZDF HD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70316.ts
+#EXTINF:-1 tvg-id="RTLPassion.de" tvg-name="|.DE.| RTL PASSION FHD" tvg-logo="http://one-iptv.com/imageslogo/RTLPassion.de.png" group-title="DEUTSCHLAND",|.DE.| RTL PASSION FHD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70317.ts
+#EXTINF:-1 tvg-id="ProSiebenMaxx.de" tvg-name="|.DE.| PROSIEBEN MAXX FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/ProSieben_MAXX_Logo.svg/1280px-ProSieben_MAXX_Logo.svg.png" group-title="DEUTSCHLAND",|.DE.| PROSIEBEN MAXX FHD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70318.ts
+#EXTINF:-1 tvg-id="RTL.de" tvg-name="|.DE.| RTL FHD" tvg-logo="http://one-iptv.com/imageslogo/RTL.de.png" group-title="DEUTSCHLAND",|.DE.| RTL FHD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70319.ts
+#EXTINF:-1 tvg-id="RTL2.de" tvg-name="|.DE.| RTL 2 FHD" tvg-logo=" http://one-iptv.com/imageslogo/RTL2.de.png" group-title="DEUTSCHLAND",|.DE.| RTL 2 FHD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70321.ts
+#EXTINF:-1 tvg-id="RTLNitro.de" tvg-name="|.DE.| NITRO FHD" tvg-logo="http://one-iptv.com/imageslogo/RTLNitro.de.png" group-title="DEUTSCHLAND",|.DE.| NITRO FHD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70322.ts
+#EXTINF:-1 tvg-id="RTLUp.de" tvg-name="|.DE.| RTL UP" tvg-logo="http://one-iptv.com/imageslogo/RTLPlus.de.png" group-title="DEUTSCHLAND",|.DE.| RTL UP
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70323.ts
+#EXTINF:-1 tvg-id="sixx.de" tvg-name="|.DE.| SIXX FHD" tvg-logo="http://one-iptv.com/imageslogo/sixx.de.png" group-title="DEUTSCHLAND",|.DE.| SIXX FHD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70324.ts
+#EXTINF:-1 tvg-id="ARTE.de" tvg-name="|.DE.| ARTE HD" tvg-logo=" http://one-iptv.com/imageslogo/ARTE.de.png" group-title="DEUTSCHLAND",|.DE.| ARTE HD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70325.ts
+#EXTINF:-1 tvg-id="KabelEinsDoku.de" tvg-name="|.DE.| KABEL EINS DOKU HD" tvg-logo="http://one-iptv.com/imageslogo/Kabel1.de.png" group-title="DEUTSCHLAND",|.DE.| KABEL EINS DOKU HD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70326.ts
+#EXTINF:-1 tvg-id="WDR.de" tvg-name="|.DE.| WDR HD" tvg-logo="http://one-iptv.com/imageslogo/WDR.de.png" group-title="DEUTSCHLAND",|.DE.| WDR HD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70330.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.DE.| NDR HD" tvg-logo="http://one-iptv.com/imageslogo/ndr.de.png" group-title="DEUTSCHLAND",|.DE.| NDR HD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70332.ts
+#EXTINF:-1 tvg-id="Kabel1.de" tvg-name="|.DE.| KABEL EINS FHD" tvg-logo="http://one-iptv.com/imageslogo/Kabel1.de.png" group-title="DEUTSCHLAND",|.DE.| KABEL EINS FHD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70333.ts
+#EXTINF:-1 tvg-id="Vox.de" tvg-name="|.DE.| VOX FHD" tvg-logo=" http://one-iptv.com/imageslogo/Vox.de.png" group-title="DEUTSCHLAND",|.DE.| VOX FHD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70334.ts
+#EXTINF:-1 tvg-id="Vox.de" tvg-name="|.DE.| VOX HD" tvg-logo=" http://one-iptv.com/imageslogo/Vox.de.png" group-title="DEUTSCHLAND",|.DE.| VOX HD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70335.ts
+#EXTINF:-1 tvg-id="ARD.de" tvg-name="|.DE.| DAS ERSTE HD" tvg-logo="http://one-iptv.com/imageslogo/pu_1_0_1_6DCA_44D_1_C00000_0_0_0.png" group-title="DEUTSCHLAND",|.DE.| DAS ERSTE HD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70336.ts
+#EXTINF:-1 tvg-id="Fox.de" tvg-name="|.DE.| FOX FHD" tvg-logo="http://one-iptv.com/imageslogo/Fox.tr.png" group-title="DEUTSCHLAND",|.DE.| FOX FHD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70340.ts
+#EXTINF:-1 tvg-id="Anixe.de" tvg-name="|.DE.| ANIXE HD" tvg-logo=" http://one-iptv.com/imageslogo/Anixe.de.png" group-title="DEUTSCHLAND",|.DE.| ANIXE HD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70341.ts
+#EXTINF:-1 tvg-id="ORF1.at" tvg-name="|.DE.| ORF 1 HD" tvg-logo="http://one-iptv.com/imageslogo/pu_ORF-1--echt-meins_1556205462039637_v0_l.jpg" group-title="DEUTSCHLAND",|.DE.| ORF 1 HD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70344.ts
+#EXTINF:-1 tvg-id="ORF2.at" tvg-name="|.DE.| ORF 2 HD" tvg-logo="http://one-iptv.com/imageslogo/pu_1369079257_orf2_live.jpg" group-title="DEUTSCHLAND",|.DE.| ORF 2 HD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70345.ts
+#EXTINF:-1 tvg-id="KabelEinsDoku.de" tvg-name="|.DE.| KABEL EINS DOKU" tvg-logo="http://one-iptv.com/imageslogo/Kabel1.de.png" group-title="DEUTSCHLAND",|.DE.| KABEL EINS DOKU
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70358.ts
+#EXTINF:-1 tvg-id="ntv.de" tvg-name="|.DE.| N-TV" tvg-logo=" http://one-iptv.com/imageslogo/ntv.de.png" group-title="DEUTSCHLAND",|.DE.| N-TV
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70361.ts
+#EXTINF:-1 tvg-id="N24Doku.de" tvg-name="|.DE.| N24 DOKU" tvg-logo="http://one-iptv.com/imageslogo/N24Doku.de.png" group-title="DEUTSCHLAND",|.DE.| N24 DOKU
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70362.ts
+#EXTINF:-1 tvg-id="RTLNitro.de" tvg-name="|.DE.| NITRO" tvg-logo="http://one-iptv.com/imageslogo/RTLNitro.de.png" group-title="DEUTSCHLAND",|.DE.| NITRO
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70364.ts
+#EXTINF:-1 tvg-id="Pro7.de" tvg-name="|.DE.| PROSIEBEN HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/ProSieben_logo.svg/1200px-ProSieben_logo.svg.png" group-title="DEUTSCHLAND",|.DE.| PROSIEBEN HD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70367.ts
+#EXTINF:-1 tvg-id="RTL.de" tvg-name="|.DE.| RTL" tvg-logo="http://one-iptv.com/imageslogo/RTL.de.png" group-title="DEUTSCHLAND",|.DE.| RTL
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70372.ts
+#EXTINF:-1 tvg-id="ServusTV.de" tvg-name="|.DE.| SERVUS TV" tvg-logo="https://getlogo.net/wp-content/uploads/2021/10/servus-logo-vector.png" group-title="DEUTSCHLAND",|.DE.| SERVUS TV
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70375.ts
+#EXTINF:-1 tvg-id="SuperRTL.de" tvg-name="|.DE.| SUPER RTL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTvbt4h5V85WKncWv4BtBFzOHzwzmQtQpZwfLx37Hvg3xiXRE0xutG94Az6&s" group-title="DEUTSCHLAND",|.DE.| SUPER RTL
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70377.ts
+#EXTINF:-1 tvg-id="ARTE.de" tvg-name="|.DE.| ARTE" tvg-logo="http://one-iptv.com/imageslogo/ARTE.de.png" group-title="DEUTSCHLAND",|.DE.| ARTE
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/59876.ts
+#EXTINF:-1 tvg-id="sixx.de" tvg-name="|.DE.| SIXX" tvg-logo="http://one-iptv.com/imageslogo/sixx.de.png" group-title="DEUTSCHLAND",|.DE.| SIXX
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/59877.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.DE.| 3 SAT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkNVsBUfjRvetOGIvzfPJBcTlhrQp7uMd32_TNGdMAixx6gpiSd1CtSgo&s" group-title="DEUTSCHLAND",|.DE.| 3 SAT
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/59878.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.DE.| PROSIEBEN HD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRDyQvpQKAHVZESnIM4fRDheTS1cxcg58mlCPdmAipKtqMCuL-GAM6-q5Rr&s" group-title="DEUTSCHLAND",|.DE.| PROSIEBEN HD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/59881.ts
+#EXTINF:-1 tvg-id="Kabel1.de" tvg-name="|.DE.| KABEL EINS" tvg-logo="http://one-iptv.com/imageslogo/Kabel1.de.png" group-title="DEUTSCHLAND",|.DE.| KABEL EINS
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/59882.ts
+#EXTINF:-1 tvg-id="ZDFinfo.de" tvg-name="|.DE.| ZDF INFO" tvg-logo="http://one-iptv.com/imageslogo/ZDFinfo.de.png" group-title="DEUTSCHLAND",|.DE.| ZDF INFO
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/59885.ts
+#EXTINF:-1 tvg-id="Anixe.de" tvg-name="|.DE.| ANIXE" tvg-logo="http://one-iptv.com/imageslogo/Anixe.de.png" group-title="DEUTSCHLAND",|.DE.| ANIXE
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/59888.ts
+#EXTINF:-1 tvg-id="SuperRTL.de" tvg-name="|.DE.| SUPER RTL HD" tvg-logo="http://one-iptv.com/imageslogo/SuperRTL.de.png" group-title="DEUTSCHLAND",|.DE.| SUPER RTL HD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/59889.ts
+#EXTINF:-1 tvg-id="RTLNitro.de" tvg-name="|.DE.| RTL NITRO" tvg-logo="http://one-iptv.com/imageslogo/RTLNitro.de.png" group-title="DEUTSCHLAND",|.DE.| RTL NITRO
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/59892.ts
+#EXTINF:-1 tvg-id="DMax.de" tvg-name="|.DE.| DMAX" tvg-logo="http://one-iptv.com/imageslogo/DiscoveryDMAX.uk.png" group-title="DEUTSCHLAND",|.DE.| DMAX
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/59896.ts
+#EXTINF:-1 tvg-id="Vox.de" tvg-name="|.DE.| VOX" tvg-logo="http://one-iptv.com/imageslogo/Vox.de.png" group-title="DEUTSCHLAND",|.DE.| VOX
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/59897.ts
+#EXTINF:-1 tvg-id="Phoenix.de" tvg-name="|.DE.| PHOENIX" tvg-logo="http://one-iptv.com/imageslogo/Phoenix.de.png" group-title="DEUTSCHLAND",|.DE.| PHOENIX
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/59900.ts
+#EXTINF:-1 tvg-id="Tele5.de" tvg-name="|.DE.| TELE 5 HD" tvg-logo="http://one-iptv.com/imageslogo/Tele5.de.png" group-title="DEUTSCHLAND",|.DE.| TELE 5 HD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/59910.ts
+#EXTINF:-1 tvg-id="DisneyChannel.de" tvg-name="|.DE.| DISNEY CHANNEL FHD" tvg-logo="http://one-iptv.com/imageslogo/pu_disneychannel.png" group-title="DEUTSCHLAND",|.DE.| DISNEY CHANNEL FHD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/59912.ts
+#EXTINF:-1 tvg-id="DisneyChannel.de" tvg-name="|.DE.| DISNEY CHANNEL FHD" tvg-logo="http://one-iptv.com/imageslogo/pu_disneychannel.png" group-title="DEUTSCHLAND",|.DE.| DISNEY CHANNEL FHD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70397.ts
+#EXTINF:-1 tvg-id="DisneyJunior.de" tvg-name="|.DE.| DISNEY JUNIOR" tvg-logo="http://one-iptv.com/imageslogo/DisneyJunior.de.png" group-title="DEUTSCHLAND",|.DE.| DISNEY JUNIOR
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/59914.ts
+#EXTINF:-1 tvg-id="DisneyJunior.de" tvg-name="|.DE.| DISNEY JUNIOR FHD" tvg-logo="http://one-iptv.com/imageslogo/DisneyJunior.de.png" group-title="DEUTSCHLAND",|.DE.| DISNEY JUNIOR FHD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70396.ts
+#EXTINF:-1 tvg-id="Nickelodeon.de" tvg-name="|.DE.| NICKELODEON" tvg-logo="http://one-iptv.com/imageslogo/pu_osnnicktoons.png" group-title="DEUTSCHLAND",|.DE.| NICKELODEON
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/59941.ts
+#EXTINF:-1 tvg-id="NickJr.de" tvg-name="|.DE.| NICK JR" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1QaYwFbXYFjqUwdg_8Ylnn-UFkXlRW1bPUPEU47IXPd6KEKRjevE1SQ&s" group-title="DEUTSCHLAND",|.DE.| NICK JR
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/59942.ts
+#EXTINF:-1 tvg-id="CartoonNetwork.de" tvg-name="|.DE.| CARTOON NETWORK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRFwnlirxOGQwxdQ2TXU7D1tDnAN4ws-7TzeQBpvl_xQhzRezsxfYcgGGLp&s" group-title="DEUTSCHLAND",|.DE.| CARTOON NETWORK
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/59944.ts
+#EXTINF:-1 tvg-id="Boomerang.de" tvg-name="|.DE.| BOOMERANG" tvg-logo="http://one-iptv.com/imageslogo/pu_boomerang.png" group-title="DEUTSCHLAND",|.DE.| BOOMERANG
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/59945.ts
+#EXTINF:-1 tvg-id="Boomerang.de" tvg-name="|.DE.| BOOMERANG HD" tvg-logo="http://one-iptv.com/imageslogo/pu_boomerang.png" group-title="DEUTSCHLAND",|.DE.| BOOMERANG HD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70395.ts
+#EXTINF:-1 tvg-id="Kika.de" tvg-name="|.DE.| KIKA" tvg-logo="http://one-iptv.com/imageslogo/Kika.de.png" group-title="DEUTSCHLAND",|.DE.| KIKA
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/59947.ts
+#EXTINF:-1 tvg-id="Kika.de" tvg-name="|.DE.| KIKA HD" tvg-logo="http://one-iptv.com/imageslogo/Kika.de.png" group-title="DEUTSCHLAND",|.DE.| KIKA HD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70398.ts
+#EXTINF:-1 tvg-id="allgaeutv.de" tvg-name="|.DE.| ALLGAU TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Allg%C3%A4u_TV_Logo_%282021%29.svg/2560px-Allg%C3%A4u_TV_Logo_%282021%29.svg.png" group-title="DEUTSCHLAND",|.DE.| ALLGAU TV HD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70399.ts
+#EXTINF:-1 tvg-id="TOGGOplus.de" tvg-name="|.DE.| TOGGO PLUS" tvg-logo="http://one-iptv.com/imageslogo/TOGGOplus.de.png" group-title="DEUTSCHLAND",|.DE.| TOGGO PLUS
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/59948.ts
+#EXTINF:-1 tvg-id="" tvg-name="---??| SKY CINEMA |??---" tvg-logo="http://one-iptv.com/imageslogo/SkyCinemaCollection.it.png" group-title="DEUTSCHLAND",---??| SKY CINEMA |??---
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/59949.ts
+#EXTINF:-1 tvg-id="SkyCinemaFamily.de" tvg-name="|.DE.| SKY CINEMA" tvg-logo="http://one-iptv.com/imageslogo/SkyCinemaCollection.it.png" group-title="DEUTSCHLAND",|.DE.| SKY CINEMA
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/59951.ts
+#EXTINF:-1 tvg-id="SkyCinemaClassics.de" tvg-name="|.DE.| SKY CINEMA FHD" tvg-logo="http://one-iptv.com/imageslogo/SkyCinemaCollection.it.png" group-title="DEUTSCHLAND",|.DE.| SKY CINEMA FHD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70381.ts
+#EXTINF:-1 tvg-id="SkyCinemaPremieren.de" tvg-name="|.DE.| SKY CINEMA +1 FHD" tvg-logo="http://one-iptv.com/imageslogo/pu_612.png" group-title="DEUTSCHLAND",|.DE.| SKY CINEMA +1 FHD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70382.ts
+#EXTINF:-1 tvg-id="SkyAction.de" tvg-name="|.DE.| SKY ACTION FHD" tvg-logo="http://one-iptv.com/imageslogo/pu_613.png" group-title="DEUTSCHLAND",|.DE.| SKY ACTION FHD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/59950.ts
+#EXTINF:-1 tvg-id="SkyAction.de" tvg-name="|.DE.| SKY CINEMA ACTION FHD" tvg-logo="http://one-iptv.com/imageslogo/pu_613.png" group-title="DEUTSCHLAND",|.DE.| SKY CINEMA ACTION FHD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70380.ts
+#EXTINF:-1 tvg-id="SkyCinemaFamily.de" tvg-name="|.DE.| SKY CINEMA FAMILY" tvg-logo="http://one-iptv.com/imageslogo/SkyCinemaUno.it.png" group-title="DEUTSCHLAND",|.DE.| SKY CINEMA FAMILY
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/59954.ts
+#EXTINF:-1 tvg-id="SkyCinemaFamily.de" tvg-name="|.DE.| SKY CINEMA FAMILY FHD" tvg-logo="http://one-iptv.com/imageslogo/SkyCinemaUno.it.png" group-title="DEUTSCHLAND",|.DE.| SKY CINEMA FAMILY FHD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70387.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.DE.| SKY CINEMA COMEDY HD" tvg-logo="http://one-iptv.com/imageslogo/pu_617.png" group-title="DEUTSCHLAND",|.DE.| SKY CINEMA COMEDY HD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70385.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.DE.| SKY CINEMA EMOTION HD" tvg-logo="http://one-iptv.com/imageslogo/SkyCinemaUno.it.png" group-title="DEUTSCHLAND",|.DE.| SKY CINEMA EMOTION HD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70386.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.DE.| SKY CINEMA HITS" tvg-logo="http://one-iptv.com/imageslogo/pu_Sky_Cinema_Hits.png" group-title="DEUTSCHLAND",|.DE.| SKY CINEMA HITS
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/59953.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.DE.| SKY CINEMA HITS FHD" tvg-logo="http://one-iptv.com/imageslogo/pu_Sky_Cinema_Hits.png" group-title="DEUTSCHLAND",|.DE.| SKY CINEMA HITS FHD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70388.ts
+#EXTINF:-1 tvg-id="SkyCinemaPremierenPlus24.de" tvg-name="|.DE.| SKY CINEMA +24 FHD" tvg-logo="http://one-iptv.com/imageslogo/SkyCinemaUno.it.png" group-title="DEUTSCHLAND",|.DE.| SKY CINEMA +24 FHD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70383.ts
+#EXTINF:-1 tvg-id="SkyAtlantic.de" tvg-name="|.DE.| SKY ATLANTIC HD" tvg-logo="http://one-iptv.com/imageslogo/SkyAtlantic.de.png" group-title="DEUTSCHLAND",|.DE.| SKY ATLANTIC HD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/59957.ts
+#EXTINF:-1 tvg-id="SkyAtlantic.de" tvg-name="|.DE.| SKY CINEMA ATLANTIC FHD" tvg-logo="http://one-iptv.com/imageslogo/pu_612.png" group-title="DEUTSCHLAND",|.DE.| SKY CINEMA ATLANTIC FHD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70390.ts
+#EXTINF:-1 tvg-id="SkyCinemaClassics.de" tvg-name="|.DE.| SKY CINEMA NOSTALGIE" tvg-logo="http://one-iptv.com/imageslogo/pu_612.png" group-title="DEUTSCHLAND",|.DE.| SKY CINEMA NOSTALGIE
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/59958.ts
+#EXTINF:-1 tvg-id="SkyCinemaSpecial.de" tvg-name="|.DE.| SKY CINEMA SPECIAL FHD" tvg-logo="http://one-iptv.com/imageslogo/pu_612.png" group-title="DEUTSCHLAND",|.DE.| SKY CINEMA SPECIAL FHD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70384.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.DE.| SKY ROMANCE HD" tvg-logo="http://one-iptv.com/imageslogo/pu_612.png" group-title="DEUTSCHLAND",|.DE.| SKY ROMANCE HD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70413.ts
+#EXTINF:-1 tvg-id="SkyKrimi.de" tvg-name="|.DE.| SKY KRIMI" tvg-logo="http://one-iptv.com/imageslogo/SkyKrimi.de.png" group-title="DEUTSCHLAND",|.DE.| SKY KRIMI
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/59960.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.DE.| SKY CINEMA KRIMI FHD" tvg-logo="http://one-iptv.com/imageslogo/SkyKrimi.de.png" group-title="DEUTSCHLAND",|.DE.| SKY CINEMA KRIMI FHD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70404.ts
+#EXTINF:-1 tvg-id="SkyCinemaClassics.de" tvg-name="|.DE.| SKY CINEMA NOSTALGIE HD" tvg-logo="http://one-iptv.com/imageslogo/pu_612.png" group-title="DEUTSCHLAND",|.DE.| SKY CINEMA NOSTALGIE HD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70391.ts
+#EXTINF:-1 tvg-id="ZDFneo.de" tvg-name="|.DE.| ZDF Neo HD" tvg-logo="http://one-iptv.com/imageslogo/ZDFneo.de.png" group-title="DEUTSCHLAND",|.DE.| ZDF Neo HD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70401.ts
+#EXTINF:-1 tvg-id="TLC.de" tvg-name="|.DE.| TLC FHD" tvg-logo="http://one-iptv.com/imageslogo/TLC.de.png" group-title="DEUTSCHLAND",|.DE.| TLC FHD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70402.ts
+#EXTINF:-1 tvg-id="Syfy.de" tvg-name="|.DE.| SYFY FHD" tvg-logo="http://one-iptv.com/imageslogo/Syfy.de.png" group-title="DEUTSCHLAND",|.DE.| SYFY FHD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70403.ts
+#EXTINF:-1 tvg-id="AXN.de" tvg-name="|.DE.| AXN FHD" tvg-logo="http://one-iptv.com/imageslogo/AXN.de.png" group-title="DEUTSCHLAND",|.DE.| AXN FHD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70405.ts
+#EXTINF:-1 tvg-id="Sat1.de" tvg-name="|.DE.| SAT 1 FHD" tvg-logo="http://one-iptv.com/imageslogo/pu_1_0_1_445C_453_1_C00000_0_0_0.png" group-title="DEUTSCHLAND",|.DE.| SAT 1 FHD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70407.ts
+#EXTINF:-1 tvg-id="Sat1Gold.de" tvg-name="|.DE.| SAT 1 GOLD HD" tvg-logo="http://one-iptv.com/imageslogo/Sat1Gold.de.png" group-title="DEUTSCHLAND",|.DE.| SAT 1 GOLD HD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70408.ts
+#EXTINF:-1 tvg-id="SuperRTL.de" tvg-name="|.DE.| SUPER RTL FHD" tvg-logo="http://one-iptv.com/imageslogo/SuperRTL.de.png" group-title="DEUTSCHLAND",|.DE.| SUPER RTL FHD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70410.ts
+#EXTINF:-1 tvg-id="100NLTV.nl" tvg-name="|.DE.| 13TH STREET HD" tvg-logo="http://one-iptv.com/imageslogo/13thStreet.de.png" group-title="DEUTSCHLAND",|.DE.| 13TH STREET HD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/59961.ts
+#EXTINF:-1 tvg-id="Fox.de" tvg-name="|.DE.| FOX HD" tvg-logo="http://one-iptv.com/imageslogo/Fox.de.png" group-title="DEUTSCHLAND",|.DE.| FOX HD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/59962.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.DE.| TNT SERIE FHD" tvg-logo="http://one-iptv.com/imageslogo/TNTSerie.de.png" group-title="DEUTSCHLAND",|.DE.| TNT SERIE FHD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/59964.ts
+#EXTINF:-1 tvg-id="100NLTV.nl" tvg-name="|.DE.| TNT FILM HD" tvg-logo=" http://one-iptv.com/imageslogo/TNTFilm.de.png" group-title="DEUTSCHLAND",|.DE.| TNT FILM HD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/59965.ts
+#EXTINF:-1 tvg-id="Heimatkanal.de" tvg-name="|.DE.| HEIMATKANAL" tvg-logo="http://one-iptv.com/imageslogo/Heimatkanal.de.png" group-title="DEUTSCHLAND",|.DE.| HEIMATKANAL
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/59966.ts
+#EXTINF:-1 tvg-id="TNTFilm.de" tvg-name="|.DE.| TNT FILM FHD" tvg-logo=" http://one-iptv.com/imageslogo/TNTFilm.de.png" group-title="DEUTSCHLAND",|.DE.| TNT FILM FHD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70393.ts
+#EXTINF:-1 tvg-id="TNTComedy.de" tvg-name="|.DE.| TNT COMEDY FHD" tvg-logo="http://one-iptv.com/imageslogo/TNTComedy.de.png" group-title="DEUTSCHLAND",|.DE.| TNT COMEDY FHD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70392.ts
+#EXTINF:-1 tvg-id="MTVGermany.de" tvg-name="|.DE.| MTV" tvg-logo="http://one-iptv.com/imageslogo/MTVGermany.de.png" group-title="DEUTSCHLAND",|.DE.| MTV
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/59971.ts
+#EXTINF:-1 tvg-id="MTVGermany.de" tvg-name="|.DE.| MTV HD" tvg-logo="http://one-iptv.com/imageslogo/MTV.es.png" group-title="DEUTSCHLAND",|.DE.| MTV HD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70443.ts
+#EXTINF:-1 tvg-id="ComedyCentral.de" tvg-name="|.DE.| COMEDY CENTRAL" tvg-logo="http://one-iptv.com/imageslogo/pu_comedycentral.png" group-title="DEUTSCHLAND",|.DE.| COMEDY CENTRAL
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/59972.ts
+#EXTINF:-1 tvg-id="DeLuxeMusic.de" tvg-name="|.DE.| DELUXE MUSIC" tvg-logo="http://one-iptv.com/imageslogo/DeLuxeMusic.de.png" group-title="DEUTSCHLAND",|.DE.| DELUXE MUSIC
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/59973.ts
+#EXTINF:-1 tvg-id="DeLuxeMusic.de" tvg-name="|.DE.| DELUXE MUSIC HD" tvg-logo="http://one-iptv.com/imageslogo/DeLuxeMusic.de.png" group-title="DEUTSCHLAND",|.DE.| DELUXE MUSIC HD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/59974.ts
+#EXTINF:-1 tvg-id="Jukebox.de" tvg-name="|.DE.| JUKEBOX" tvg-logo="http://one-iptv.com/imageslogo/Jukebox.de.png" group-title="DEUTSCHLAND",|.DE.| JUKEBOX
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/59975.ts
+#EXTINF:-1 tvg-id="Xite.nl" tvg-name="|.DE.| XITE" tvg-logo="http://one-iptv.com/imageslogo/Xite.nl.png" group-title="DEUTSCHLAND",|.DE.| XITE
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/59978.ts
+#EXTINF:-1 tvg-id="DeutschesMusikFernsehen.de" tvg-name="|.DE.| DEUTSCHES MUSIK" tvg-logo="http://one-iptv.com/imageslogo/DeutschesMusikFernsehen.de.png" group-title="DEUTSCHLAND",|.DE.| DEUTSCHES MUSIK
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/59980.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.DE.| RFO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/2/2c/Logo_RFO_1990.svg/2560px-Logo_RFO_1990.svg.png" group-title="DEUTSCHLAND",|.DE.| RFO HD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70469.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.DE.| RNF HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/RNF_Logo.svg/1280px-RNF_Logo.svg.png" group-title="DEUTSCHLAND",|.DE.| RNF HD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70470.ts
+#EXTINF:-1 tvg-id="Tagesschau24.de" tvg-name="|.DE.| TAGESSCHAU 24 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Tagesschau24HD.svg/2560px-Tagesschau24HD.svg.png" group-title="DEUTSCHLAND",|.DE.| TAGESSCHAU 24 HD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70474.ts
+#EXTINF:-1 tvg-id="ndrNiedersachsen.de" tvg-name="|.DE.| NDR HAMBURG HD" tvg-logo="http://one-iptv.com/imageslogo/ndr.de.png" group-title="DEUTSCHLAND",|.DE.| NDR HAMBURG HD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70449.ts
+#EXTINF:-1 tvg-id="TVOberfranken.de" tvg-name="|.DE.| OBERPFALZ TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/80/OberpfalzMedien_Logo_RZ.png" group-title="DEUTSCHLAND",|.DE.| OBERPFALZ TV HD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70458.ts
+#EXTINF:-1 tvg-id="Phoenix.de" tvg-name="|.DE.| PHOENIX HD" tvg-logo=" http://one-iptv.com/imageslogo/Phoenix.de.png" group-title="DEUTSCHLAND",|.DE.| PHOENIX HD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70463.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.DE.| LIGHT CHANNEL HD" tvg-logo="http://www.gospelministry.org/wp-content/uploads/lcg-logo.png" group-title="DEUTSCHLAND",|.DE.| LIGHT CHANNEL HD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70442.ts
+#EXTINF:-1 tvg-id="SpiegelTVWissen.de" tvg-name="|.DE.| SPIEGEL TV WISSEN" tvg-logo="http://one-iptv.com/imageslogo/SpiegelTVWissen.de.png" group-title="DEUTSCHLAND",|.DE.| SPIEGEL TV WISSEN
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/59982.ts
+#EXTINF:-1 tvg-id="SpiegelGeschichte.de" tvg-name="|.DE.| SPIEGEL GESCHICHTE" tvg-logo="http://one-iptv.com/imageslogo/SpiegelGeschichte.de.png" group-title="DEUTSCHLAND",|.DE.| SPIEGEL GESCHICHTE
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/59983.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.DE.| HEALTH TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/Healthtv-logo2018.svg" group-title="DEUTSCHLAND",|.DE.| HEALTH TV HD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/59984.ts
+#EXTINF:-1 tvg-id="CrimeInvestigation.de" tvg-name="|.DE.| CRIME + INVESTIGATION HD" tvg-logo="http://one-iptv.com/imageslogo/pu_Crime_and_Investigation_logo.png" group-title="DEUTSCHLAND",|.DE.| CRIME + INVESTIGATION HD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70409.ts
+#EXTINF:-1 tvg-id="WeltDerWunder.de" tvg-name="|.DE.| WELT DER WUNDER" tvg-logo="http://one-iptv.com/imageslogo/WeltDerWunder.de.png" group-title="DEUTSCHLAND",|.DE.| WELT DER WUNDER
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/59985.ts
+#EXTINF:-1 tvg-id="History.de" tvg-name="|.DE.| HISTORY FHD" tvg-logo="http://one-iptv.com/imageslogo/pu_200px-History_Logo.svg.png" group-title="DEUTSCHLAND",|.DE.| HISTORY FHD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70415.ts
+#EXTINF:-1 tvg-id="AnimalPlanet.de" tvg-name="|.DE.| ANIMAL PLANET" tvg-logo="http://one-iptv.com/imageslogo/AnimalPlanet.de.png" group-title="DEUTSCHLAND",|.DE.| ANIMAL PLANET
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/59988.ts
+#EXTINF:-1 tvg-id="AnimalPlanet.de" tvg-name="|.DE.| ANIMAL PLANET HD" tvg-logo="http://one-iptv.com/imageslogo/AnimalPlanet.de.png" group-title="DEUTSCHLAND",|.DE.| ANIMAL PLANET HD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/59989.ts
+#EXTINF:-1 tvg-id="DiscoveryChannel.de" tvg-name="|.DE.| DISCOVERY HD" tvg-logo="http://one-iptv.com/imageslogo/DiscoveryVlaanderen.be.png" group-title="DEUTSCHLAND",|.DE.| DISCOVERY HD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/59991.ts
+#EXTINF:-1 tvg-id="NatGeo.de" tvg-name="|.DE.| NAT GEO HD" tvg-logo="http://one-iptv.com/imageslogo/NatGeo.de.png" group-title="DEUTSCHLAND",|.DE.| NAT GEO HD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/59993.ts
+#EXTINF:-1 tvg-id="NatGeo.de" tvg-name="|.DE.| NAT GEO FHD" tvg-logo="http://one-iptv.com/imageslogo/NatGeo.de.png" group-title="DEUTSCHLAND",|.DE.| NAT GEO FHD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70418.ts
+#EXTINF:-1 tvg-id="NatGeoWild.de" tvg-name="|.DE.| NAT GEO WILD HD" tvg-logo=" http://one-iptv.com/imageslogo/NatGeoWild.de.png" group-title="DEUTSCHLAND",|.DE.| NAT GEO WILD HD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/59992.ts
+#EXTINF:-1 tvg-id="NatGeoWild.de" tvg-name="|.DE.| NAT GEO WILD FHD" tvg-logo=" http://one-iptv.com/imageslogo/NatGeoWild.de.png" group-title="DEUTSCHLAND",|.DE.| NAT GEO WILD FHD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70419.ts
+#EXTINF:-1 tvg-id="DiscoveryChannel.de" tvg-name="|.DE.| DISCOVERY FHD" tvg-logo="http://one-iptv.com/imageslogo/DiscoveryVlaanderen.be.png" group-title="DEUTSCHLAND",|.DE.| DISCOVERY FHD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70416.ts
+#EXTINF:-1 tvg-id="MotorVision.de" tvg-name="|.DE.| MOTORVISION" tvg-logo="http://one-iptv.com/imageslogo/MotorVision.de.png" group-title="DEUTSCHLAND",|.DE.| MOTORVISION
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70417.ts
+#EXTINF:-1 tvg-id="DMax.de" tvg-name="|.DE.| DMAX FHD" tvg-logo="http://one-iptv.com/imageslogo/DiscoveryDMAX.uk.png" group-title="DEUTSCHLAND",|.DE.| DMAX FHD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70420.ts
+#EXTINF:-1 tvg-id="Universal.de" tvg-name="|.DE.| UNIVERSAL FHD" tvg-logo="http://one-iptv.com/imageslogo/Universal.de.png" group-title="DEUTSCHLAND",|.DE.| UNIVERSAL FHD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70422.ts
+#EXTINF:-1 tvg-id="KabelEinsClassic.de" tvg-name="|.DE.| KABEL EINS CLASSIC" tvg-logo="http://one-iptv.com/imageslogo/Kabel1.de.png" group-title="DEUTSCHLAND",|.DE.| KABEL EINS CLASSIC
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70424.ts
+#EXTINF:-1 tvg-id="ARDalpha.de" tvg-name="|.DE.| ALPHA HD" tvg-logo="http://one-iptv.com/imageslogo/ARDalpha.de.png" group-title="DEUTSCHLAND",|.DE.| ALPHA HD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70425.ts
+#EXTINF:-1 tvg-id="ARTE.de" tvg-name="|.DE.| ARTE HD" tvg-logo="http://one-iptv.com/imageslogo/ARTE.de.png" group-title="DEUTSCHLAND",|.DE.| ARTE HD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70426.ts
+#EXTINF:-1 tvg-id="BibelTV.de" tvg-name="|.DE.| BIBEL TV HD" tvg-logo="http://one-iptv.com/imageslogo/BibelTV.de.png" group-title="DEUTSCHLAND",|.DE.| BIBEL TV HD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70428.ts
+#EXTINF:-1 tvg-id="BibelTV.de" tvg-name="|.DE.| BIBEL TV HD" tvg-logo="http://one-iptv.com/imageslogo/BibelTV.de.png" group-title="DEUTSCHLAND",|.DE.| BIBEL TV HD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70430.ts
+#EXTINF:-1 tvg-id="SkySportNews.de" tvg-name="|.DE.| SKY SPORT NEWS" tvg-logo="http://one-iptv.com/imageslogo/SkySportNews.de.png" group-title="DEUTSCHLAND",|.DE.| SKY SPORT NEWS
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/59998.ts
+#EXTINF:-1 tvg-id="SkySportNews.de" tvg-name="|.DE.| SKY SPORT NEWS FHD" tvg-logo="http://one-iptv.com/imageslogo/SkySportNews.de.png" group-title="DEUTSCHLAND",|.DE.| SKY SPORT NEWS FHD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70482.ts
+#EXTINF:-1 tvg-id="Sport1.de" tvg-name="|.DE.| SPORT 1" tvg-logo="http://one-iptv.com/imageslogo/Sport1.de.png" group-title="DEUTSCHLAND",|.DE.| SPORT 1
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/59995.ts
+#EXTINF:-1 tvg-id="Eurosport1.de" tvg-name="|.DE.| EUROSPORT 1 HD" tvg-logo="http://one-iptv.com/imageslogo/Eurosport1.de.png" group-title="DEUTSCHLAND",|.DE.| EUROSPORT 1 HD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/59996.ts
+#EXTINF:-1 tvg-id="Eurosport1.de" tvg-name="|.DE.| EUROSPORT 1 FHD" tvg-logo="http://one-iptv.com/imageslogo/Eurosport1.de.png" group-title="DEUTSCHLAND",|.DE.| EUROSPORT 1 FHD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70479.ts
+#EXTINF:-1 tvg-id="Eurosport2.de" tvg-name="|.DE.| EUROSPORT 2 HD" tvg-logo="http://one-iptv.com/imageslogo/Eurosport2.de.png" group-title="DEUTSCHLAND",|.DE.| EUROSPORT 2 HD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/59997.ts
+#EXTINF:-1 tvg-id="Eurosport2.de" tvg-name="|.DE.| EUROSPORT 2 FHD" tvg-logo="http://one-iptv.com/imageslogo/Eurosport2.de.png" group-title="DEUTSCHLAND",|.DE.| EUROSPORT 2 FHD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70480.ts
+#EXTINF:-1 tvg-id="SkySportAustria1.at" tvg-name="|.DE.| SKY SPORT AUSTRIA" tvg-logo=" http://one-iptv.com/imageslogo/SkySportUHD.de.png" group-title="DEUTSCHLAND",|.DE.| SKY SPORT AUSTRIA
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/59999.ts
+#EXTINF:-1 tvg-id="sportdigital.de" tvg-name="|.DE.| SPORT DIGITAL FHD" tvg-logo="http://one-iptv.com/imageslogo/sportdigital.de.png" group-title="DEUTSCHLAND",|.DE.| SPORT DIGITAL FHD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70520.ts
+#EXTINF:-1 tvg-id="SkySport1.de" tvg-name="|.DE.| SKY SPORT 1 HD" tvg-logo="http://one-iptv.com/imageslogo/SkySport1.de.png" group-title="DEUTSCHLAND",|.DE.| SKY SPORT 1 HD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/60000.ts
+#EXTINF:-1 tvg-id="SkySport1.de" tvg-name="|.DE.| SKY SPORT 1 FHD" tvg-logo="http://one-iptv.com/imageslogo/SkySport1.de.png" group-title="DEUTSCHLAND",|.DE.| SKY SPORT 1 FHD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70484.ts
+#EXTINF:-1 tvg-id="SkySport2.de" tvg-name="|.DE.| SKY SPORT 2 FHD" tvg-logo="http://one-iptv.com/imageslogo/SkySport2.de.png" group-title="DEUTSCHLAND",|.DE.| SKY SPORT 2 FHD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70486.ts
+#EXTINF:-1 tvg-id="SkySport3.de" tvg-name="|.DE.| SKY SPORT 3 HD" tvg-logo="http://one-iptv.com/imageslogo/SkySport3.de.png" group-title="DEUTSCHLAND",|.DE.| SKY SPORT 3 HD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/60002.ts
+#EXTINF:-1 tvg-id="SkySport3.de" tvg-name="|.DE.| SKY SPORT 3 FHD" tvg-logo="http://one-iptv.com/imageslogo/SkySport3.de.png" group-title="DEUTSCHLAND",|.DE.| SKY SPORT 3 FHD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70487.ts
+#EXTINF:-1 tvg-id="SkySport4.de" tvg-name="|.DE.| SKY SPORT 4 HD" tvg-logo="http://one-iptv.com/imageslogo/SkySport4.de.png" group-title="DEUTSCHLAND",|.DE.| SKY SPORT 4 HD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/60003.ts
+#EXTINF:-1 tvg-id="SkySport4.de" tvg-name="|.DE.| SKY SPORT 4 FHD" tvg-logo="http://one-iptv.com/imageslogo/SkySport4.de.png" group-title="DEUTSCHLAND",|.DE.| SKY SPORT 4 FHD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70488.ts
+#EXTINF:-1 tvg-id="SkySport5.de" tvg-name="|.DE.| SKY SPORT 5 HD" tvg-logo="http://one-iptv.com/imageslogo/SkySport5.de.png" group-title="DEUTSCHLAND",|.DE.| SKY SPORT 5 HD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/60004.ts
+#EXTINF:-1 tvg-id="SkySport5.de" tvg-name="|.DE.| SKY SPORT 5 FHD" tvg-logo="http://one-iptv.com/imageslogo/SkySport5.de.png" group-title="DEUTSCHLAND",|.DE.| SKY SPORT 5 FHD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70489.ts
+#EXTINF:-1 tvg-id="SkySport6.de" tvg-name="|.DE.| SKY SPORT 6 FHD" tvg-logo="http://one-iptv.com/imageslogo/SkySport6.de.png" group-title="DEUTSCHLAND",|.DE.| SKY SPORT 6 FHD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70490.ts
+#EXTINF:-1 tvg-id="SkySport7.de" tvg-name="|.DE.| SKY SPORT 7 HD" tvg-logo="http://one-iptv.com/imageslogo/SkySport7.de.png" group-title="DEUTSCHLAND",|.DE.| SKY SPORT 7 HD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/60006.ts
+#EXTINF:-1 tvg-id="SkySport7.de" tvg-name="|.DE.| SKY SPORT 7 FHD" tvg-logo="http://one-iptv.com/imageslogo/SkySport7.de.png" group-title="DEUTSCHLAND",|.DE.| SKY SPORT 7 FHD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70491.ts
+#EXTINF:-1 tvg-id="SkySport8.de" tvg-name="|.DE.| SKY SPORT 8 HD" tvg-logo="http://one-iptv.com/imageslogo/SkySport8.de.png" group-title="DEUTSCHLAND",|.DE.| SKY SPORT 8 HD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/60007.ts
+#EXTINF:-1 tvg-id="SkySport8.de" tvg-name="|.DE.| SKY SPORT 8 FHD" tvg-logo="http://one-iptv.com/imageslogo/SkySport8.de.png" group-title="DEUTSCHLAND",|.DE.| SKY SPORT 8 FHD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70492.ts
+#EXTINF:-1 tvg-id="SkyBundesliga1.de" tvg-name="|.DE.| SKY BUNDESLIGA 1" tvg-logo="http://one-iptv.com/imageslogo/SkyBundesliga1.de.png" group-title="DEUTSCHLAND",|.DE.| SKY BUNDESLIGA 1
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/60010.ts
+#EXTINF:-1 tvg-id="SkyBundesliga1.de" tvg-name="|.DE.| SKY BUNDESLIGA 1 HD" tvg-logo="http://one-iptv.com/imageslogo/SkyBundesliga1.de.png" group-title="DEUTSCHLAND",|.DE.| SKY BUNDESLIGA 1 HD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70497.ts
+#EXTINF:-1 tvg-id="SkyBundesliga1.de" tvg-name="|.DE.| SKY BUNDESLIGA 1 FHD" tvg-logo="http://one-iptv.com/imageslogo/SkyBundesliga1.de.png" group-title="DEUTSCHLAND",|.DE.| SKY BUNDESLIGA 1 FHD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70498.ts
+#EXTINF:-1 tvg-id="SkyBundesliga2.de" tvg-name="|.DE.| SKY BUNDESLIGA 2" tvg-logo="http://one-iptv.com/imageslogo/SkyBundesliga2.de.png" group-title="DEUTSCHLAND",|.DE.| SKY BUNDESLIGA 2
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/60011.ts
+#EXTINF:-1 tvg-id="SkyBundesliga2.de" tvg-name="|.DE.| SKY BUNDESLIGA 2 HD" tvg-logo="http://one-iptv.com/imageslogo/SkyBundesliga2.de.png" group-title="DEUTSCHLAND",|.DE.| SKY BUNDESLIGA 2 HD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70499.ts
+#EXTINF:-1 tvg-id="SkyBundesliga2.de" tvg-name="|.DE.| SKY BUNDESLIGA 2 FHD" tvg-logo="http://one-iptv.com/imageslogo/SkyBundesliga2.de.png" group-title="DEUTSCHLAND",|.DE.| SKY BUNDESLIGA 2 FHD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70500.ts
+#EXTINF:-1 tvg-id="SkyBundesliga3.de" tvg-name="|.DE.| SKY BUNDESLIGA 3" tvg-logo="http://one-iptv.com/imageslogo/SkyBundesliga3.de.png" group-title="DEUTSCHLAND",|.DE.| SKY BUNDESLIGA 3
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/60012.ts
+#EXTINF:-1 tvg-id="SkyBundesliga3.de" tvg-name="|.DE.| SKY BUNDESLIGA 3 HD" tvg-logo="http://one-iptv.com/imageslogo/SkyBundesliga3.de.png" group-title="DEUTSCHLAND",|.DE.| SKY BUNDESLIGA 3 HD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70501.ts
+#EXTINF:-1 tvg-id="SkyBundesliga3.de" tvg-name="|.DE.| SKY BUNDESLIGA 3 FHD" tvg-logo="http://one-iptv.com/imageslogo/SkyBundesliga3.de.png" group-title="DEUTSCHLAND",|.DE.| SKY BUNDESLIGA 3 FHD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70502.ts
+#EXTINF:-1 tvg-id="SkyBundesliga4.de" tvg-name="|.DE.| SKY BUNDESLIGA 4" tvg-logo="http://one-iptv.com/imageslogo/SkyBundesliga4.de.png" group-title="DEUTSCHLAND",|.DE.| SKY BUNDESLIGA 4
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/60013.ts
+#EXTINF:-1 tvg-id="SkyBundesliga4.de" tvg-name="|.DE.| SKY BUNDESLIGA 4 HD" tvg-logo="http://one-iptv.com/imageslogo/SkyBundesliga4.de.png" group-title="DEUTSCHLAND",|.DE.| SKY BUNDESLIGA 4 HD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70503.ts
+#EXTINF:-1 tvg-id="SkyBundesliga4.de" tvg-name="|.DE.| SKY BUNDESLIGA 4 FHD" tvg-logo="http://one-iptv.com/imageslogo/SkyBundesliga4.de.png" group-title="DEUTSCHLAND",|.DE.| SKY BUNDESLIGA 4 FHD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70504.ts
+#EXTINF:-1 tvg-id="SkyBundesliga5.de" tvg-name="|.DE.| SKY BUNDESLIGA 5" tvg-logo="http://one-iptv.com/imageslogo/SkyBundesliga5.de.png" group-title="DEUTSCHLAND",|.DE.| SKY BUNDESLIGA 5
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/60014.ts
+#EXTINF:-1 tvg-id="SkyBundesliga5.de" tvg-name="|.DE.| SKY BUNDESLIGA 5 HD" tvg-logo="http://one-iptv.com/imageslogo/SkyBundesliga5.de.png" group-title="DEUTSCHLAND",|.DE.| SKY BUNDESLIGA 5 HD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70505.ts
+#EXTINF:-1 tvg-id="SkyBundesliga5.de" tvg-name="|.DE.| SKY BUNDESLIGA 5 FHD" tvg-logo="http://one-iptv.com/imageslogo/SkyBundesliga5.de.png" group-title="DEUTSCHLAND",|.DE.| SKY BUNDESLIGA 5 FHD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70506.ts
+#EXTINF:-1 tvg-id="SkyBundesliga6.de" tvg-name="|.DE.| SKY BUNDESLIGA 6" tvg-logo="http://one-iptv.com/imageslogo/SkyBundesliga6.de.png" group-title="DEUTSCHLAND",|.DE.| SKY BUNDESLIGA 6
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/60015.ts
+#EXTINF:-1 tvg-id="SkyBundesliga6.de" tvg-name="|.DE.| SKY BUNDESLIGA 6 HD" tvg-logo="http://one-iptv.com/imageslogo/SkyBundesliga6.de.png" group-title="DEUTSCHLAND",|.DE.| SKY BUNDESLIGA 6 HD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70507.ts
+#EXTINF:-1 tvg-id="SkyBundesliga6.de" tvg-name="|.DE.| SKY BUNDESLIGA 6 FHD" tvg-logo="http://one-iptv.com/imageslogo/SkyBundesliga6.de.png" group-title="DEUTSCHLAND",|.DE.| SKY BUNDESLIGA 6 FHD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70508.ts
+#EXTINF:-1 tvg-id="SkyBundesliga7.de" tvg-name="|.DE.| SKY BUNDESLIGA 7" tvg-logo="http://one-iptv.com/imageslogo/SkyBundesliga7.de.png" group-title="DEUTSCHLAND",|.DE.| SKY BUNDESLIGA 7
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/60016.ts
+#EXTINF:-1 tvg-id="SkyBundesliga7.de" tvg-name="|.DE.| SKY BUNDESLIGA 7 HD" tvg-logo="http://one-iptv.com/imageslogo/SkyBundesliga7.de.png" group-title="DEUTSCHLAND",|.DE.| SKY BUNDESLIGA 7 HD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70509.ts
+#EXTINF:-1 tvg-id="SkyBundesliga8.de" tvg-name="|.DE.| SKY BUNDESLIGA 8" tvg-logo="http://one-iptv.com/imageslogo/SkyBundesliga8.de.png" group-title="DEUTSCHLAND",|.DE.| SKY BUNDESLIGA 8
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/60017.ts
+#EXTINF:-1 tvg-id="SkyBundesliga8.de" tvg-name="|.DE.| SKY BUNDESLIGA 8 HD" tvg-logo="http://one-iptv.com/imageslogo/SkyBundesliga8.de.png" group-title="DEUTSCHLAND",|.DE.| SKY BUNDESLIGA 8 HD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70511.ts
+#EXTINF:-1 tvg-id="SkyBundesliga8.de" tvg-name="|.DE.| SKY BUNDESLIGA 8 FHD" tvg-logo="http://one-iptv.com/imageslogo/SkyBundesliga8.de.png" group-title="DEUTSCHLAND",|.DE.| SKY BUNDESLIGA 8 FHD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70512.ts
+#EXTINF:-1 tvg-id="SkyBundesliga9.de" tvg-name="|.DE.| SKY BUNDESLIGA 9" tvg-logo="http://one-iptv.com/imageslogo/SkyBundesliga9.de.png" group-title="DEUTSCHLAND",|.DE.| SKY BUNDESLIGA 9
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/60018.ts
+#EXTINF:-1 tvg-id="SkyBundesliga9.de" tvg-name="|.DE.| SKY BUNDESLIGA 9 HD" tvg-logo="http://one-iptv.com/imageslogo/SkyBundesliga9.de.png" group-title="DEUTSCHLAND",|.DE.| SKY BUNDESLIGA 9 HD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70513.ts
+#EXTINF:-1 tvg-id="SkyBundesliga9.de" tvg-name="|.DE.| SKY BUNDESLIGA 9 FHD" tvg-logo="http://one-iptv.com/imageslogo/SkyBundesliga9.de.png" group-title="DEUTSCHLAND",|.DE.| SKY BUNDESLIGA 9 FHD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70514.ts
+#EXTINF:-1 tvg-id="SkyBundesliga10.de" tvg-name="|.DE.| SKY BUNDESLIGA 10" tvg-logo="http://one-iptv.com/imageslogo/SkyBundesliga10.de.png" group-title="DEUTSCHLAND",|.DE.| SKY BUNDESLIGA 10
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/60019.ts
+#EXTINF:-1 tvg-id="SkyBundesliga10.de" tvg-name="|.DE.| SKY BUNDESLIGA 10 HD" tvg-logo="http://one-iptv.com/imageslogo/SkyBundesliga10.de.png" group-title="DEUTSCHLAND",|.DE.| SKY BUNDESLIGA 10 HD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70515.ts
+#EXTINF:-1 tvg-id="SkyBundesliga10.de" tvg-name="|.DE.| SKY BUNDESLIGA 10 FHD" tvg-logo="http://one-iptv.com/imageslogo/SkyBundesliga10.de.png" group-title="DEUTSCHLAND",|.DE.| SKY BUNDESLIGA 10 FHD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70516.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.DE.| SKY SELECT 1 FHD" tvg-logo="http://one-iptv.com/imageslogo/SkySelect.uk.png" group-title="DEUTSCHLAND",|.DE.| SKY SELECT 1 FHD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70294.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.DE.| SKY SELECT 5 FHD" tvg-logo="http://one-iptv.com/imageslogo/SkySelect.uk.png" group-title="DEUTSCHLAND",|.DE.| SKY SELECT 5 FHD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70298.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.DE.| SKY SELECT 6 FHD" tvg-logo="http://one-iptv.com/imageslogo/SkySelect.uk.png" group-title="DEUTSCHLAND",|.DE.| SKY SELECT 6 FHD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70299.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.DE.| SKY SELECT 7 FHD" tvg-logo="http://one-iptv.com/imageslogo/SkySelect.uk.png" group-title="DEUTSCHLAND",|.DE.| SKY SELECT 7 FHD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70300.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.DE.| SKY SELECT 8 FHD" tvg-logo="http://one-iptv.com/imageslogo/SkySelect.uk.png" group-title="DEUTSCHLAND",|.DE.| SKY SELECT 8 FHD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70301.ts
+#EXTINF:-1 tvg-id="SWR.de" tvg-name="|.DE.| SWR HD" tvg-logo="http://one-iptv.com/imageslogo/SWRSR.de.png" group-title="DEUTSCHLAND",|.DE.| SWR HD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/41711.ts
+#EXTINF:-1 tvg-id="13thStreet.de" tvg-name="|.DE.| 13TH STREET FHD" tvg-logo="http://one-iptv.com/imageslogo/13thStreet.de.png" group-title="DEUTSCHLAND",|.DE.| 13TH STREET FHD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/101137.ts
+#EXTINF:-1 tvg-id="SkyNature.de" tvg-name="|.DE.| Sky Nature FHD" tvg-logo="https://media.info/i/lf/0/1593556643/7351.png" group-title="DEUTSCHLAND",|.DE.| Sky Nature FHD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/132069.ts
+#EXTINF:-1 tvg-id="AnixePlus.de" tvg-name="|.DE.| ANIXE HD PLUS" tvg-logo="http://one-iptv.com/imageslogo/Anixe.de.png" group-title="DEUTSCHLAND",|.DE.| ANIXE HD PLUS
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70343.ts
+#EXTINF:-1 tvg-id="ORF3.at" tvg-name="|.DE.| ORF 3 HD" tvg-logo="http://one-iptv.com/imageslogo/pu_ORF3.png" group-title="DEUTSCHLAND",|.DE.| ORF 3 HD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70352.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.DE.| SKY SELECT 2 FHD" tvg-logo="http://one-iptv.com/imageslogo/SkySelect.uk.png" group-title="DEUTSCHLAND",|.DE.| SKY SELECT 2 FHD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70295.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.DE.| SKY SELECT 3 FHD" tvg-logo="http://one-iptv.com/imageslogo/SkySelect.uk.png" group-title="DEUTSCHLAND",|.DE.| SKY SELECT 3 FHD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70296.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.DE.| SKY SELECT 4 FHD" tvg-logo="http://one-iptv.com/imageslogo/SkySelect.uk.png" group-title="DEUTSCHLAND",|.DE.| SKY SELECT 4 FHD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70307.ts
+#EXTINF:-1 tvg-id="SkySport10.de" tvg-name="|.DE.| SKY SPORT 10 HD" tvg-logo="http://one-iptv.com/imageslogo/SkySport10.de.png" group-title="DEUTSCHLAND",|.DE.| SKY SPORT 10 HD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/60009.ts
+#EXTINF:-1 tvg-id="SkySport6.de" tvg-name="|.DE.| SKY SPORT 6 HD" tvg-logo="http://one-iptv.com/imageslogo/SkySport6.de.png" group-title="DEUTSCHLAND",|.DE.| SKY SPORT 6 HD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/60005.ts
+#EXTINF:-1 tvg-id="SkySport9.de" tvg-name="|.DE.| SKY SPORT 9 HD" tvg-logo="http://one-iptv.com/imageslogo/SkySport9.de.png" group-title="DEUTSCHLAND",|.DE.| SKY SPORT 9 HD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/60008.ts
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="|.DE.| BR S" tvg-logo="http://one-iptv.com/imageslogo/pu_51.png" group-title="DEUTSCHLAND",|.DE.| BR S
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70427.ts
+#EXTINF:-1 tvg-id="" tvg-name="|.DE.| FOLX MUSIC TV" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/Folx_2013.png/revision/latest?cb=20220416183305" group-title="DEUTSCHLAND",|.DE.| FOLX MUSIC TV
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70355.ts
+#EXTINF:-1 tvg-id="RegioTV.de" tvg-name="|.DE.| REGIO TV HD" tvg-logo="http://one-iptv.com/imageslogo/RegioTV.de.png" group-title="DEUTSCHLAND",|.DE.| REGIO TV HD
+http://ipro.webvps.de:25443/live/o1tEXUfCO0/QE4I5CeVb1/70467.ts
