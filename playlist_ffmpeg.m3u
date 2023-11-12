@@ -1,0 +1,227 @@
+#EXTM3U
+#EXTINF:-1,Das Erste HD
+udp://@232.0.20.35:10000?sources=87.141.215.251
+#EXTINF:-1,Das Erste
+udp://@232.0.10.35:10000?sources=87.141.215.251
+#EXTINF:-1,ZDF HD
+udp://@232.0.20.234:10000?sources=87.141.215.251
+#EXTINF:-1,ZDF
+udp://@232.0.10.234:10000?sources=87.141.215.251
+#EXTINF:-1,RTL
+udp://@232.0.10.135:10000?sources=87.141.215.251
+#EXTINF:-1,SAT.1
+udp://@232.0.10.146:10000?sources=87.141.215.251
+#EXTINF:-1,ProSieben
+udp://@232.0.10.120:10000?sources=87.141.215.251
+#EXTINF:-1,VOX
+udp://@232.0.10.221:10000?sources=87.141.215.251
+#EXTINF:-1,Kabel Eins
+udp://@232.0.10.82:10000?sources=87.141.215.251
+#EXTINF:-1,RTLZWEI
+udp://@232.0.10.140:10000?sources=87.141.215.251
+#EXTINF:-1,Super RTL
+udp://@232.0.10.201:10000?sources=87.141.215.251
+#EXTINF:-1,KiKA HD
+udp://@232.0.20.85:10000?sources=87.141.215.251
+#EXTINF:-1,KiKA
+udp://@232.0.10.85:10000?sources=87.141.215.251
+#EXTINF:-1,3sat HD
+udp://@232.0.20.2:10000?sources=87.141.215.251
+#EXTINF:-1,3sat
+udp://@232.0.10.2:10000?sources=87.141.215.251
+#EXTINF:-1,n-tv
+udp://@232.0.10.111:10000?sources=87.141.215.251
+#EXTINF:-1,phoenix HD
+udp://@232.0.20.116:10000?sources=87.141.215.251
+#EXTINF:-1,phoenix
+udp://@232.0.10.116:10000?sources=87.141.215.251
+#EXTINF:-1,ZDFneo HD
+udp://@232.0.20.236:10000?sources=87.141.215.251
+#EXTINF:-1,ZDFneo
+udp://@232.0.10.236:10000?sources=87.141.215.251
+#EXTINF:-1,BR Fernsehen Süd HD
+udp://@232.0.20.26:10000?sources=87.141.215.251
+#EXTINF:-1,BR Fernsehen Süd
+udp://@232.0.10.26:10000?sources=87.141.215.251
+#EXTINF:-1,hr-fernsehen HD
+udp://@232.0.20.71:10000?sources=87.141.215.251
+#EXTINF:-1,hr-fernsehen
+udp://@232.0.10.71:10000?sources=87.141.215.251
+#EXTINF:-1,MDR-Fernsehen Sachsen HD
+udp://@232.0.20.93:10000?sources=87.141.215.251
+#EXTINF:-1,MDR-Fernsehen Sachsen
+udp://@232.0.10.93:10000?sources=87.141.215.251
+#EXTINF:-1,NDR Fernsehen Niedersachsen HD
+udp://@232.0.20.104:10000?sources=87.141.215.251
+#EXTINF:-1,NDR Fernsehen Niedersachsen
+udp://@232.0.10.104:10000?sources=87.141.215.251
+#EXTINF:-1,Radio Bremen TV HD
+udp://@232.0.20.125:10000?sources=87.141.215.251
+#EXTINF:-1,Radio Bremen TV
+udp://@232.0.10.125:10000?sources=87.141.215.251
+#EXTINF:-1,rbb fernsehen Berlin HD
+udp://@232.0.20.129:10000?sources=87.141.215.251
+#EXTINF:-1,rbb fernsehen Berlin
+udp://@232.0.10.129:10000?sources=87.141.215.251
+#EXTINF:-1,SR Fernsehen HD
+udp://@232.0.20.200:10000?sources=87.141.215.251
+#EXTINF:-1,SR Fernsehen
+udp://@232.0.10.200:10000?sources=87.141.215.251
+#EXTINF:-1,SWR Fernsehen BW HD
+udp://@232.0.20.202:10000?sources=87.141.215.251
+#EXTINF:-1,SWR Fernsehen BW
+udp://@232.0.10.202:10000?sources=87.141.215.251
+#EXTINF:-1,SWR Fernsehen RP HD
+udp://@232.0.20.203:10000?sources=87.141.215.251
+#EXTINF:-1,SWR Fernsehen RP
+udp://@232.0.10.203:10000?sources=87.141.215.251
+#EXTINF:-1,WDR Fernsehen Köln HD
+udp://@232.0.20.222:10000?sources=87.141.215.251
+#EXTINF:-1,WDR Fernsehen Köln
+udp://@232.0.10.222:10000?sources=87.141.215.251
+#EXTINF:-1,ARTE HD
+udp://@232.0.20.10:10000?sources=87.141.215.251
+#EXTINF:-1,ARTE
+udp://@232.0.10.10:10000?sources=87.141.215.251
+#EXTINF:-1,ONE HD
+udp://@232.0.20.49:10000?sources=87.141.215.251
+#EXTINF:-1,ONE
+udp://@232.0.10.49:10000?sources=87.141.215.251
+#EXTINF:-1,ProSieben MAXX
+udp://@232.0.10.122:10000?sources=87.141.215.251
+#EXTINF:-1,NITRO
+udp://@232.0.10.143:10000?sources=87.141.215.251
+#EXTINF:-1,RTLup
+udp://@232.0.10.240:10000?sources=87.141.215.251
+#EXTINF:-1,SAT.1 GOLD
+udp://@232.0.10.149:10000?sources=87.141.215.251
+#EXTINF:-1,sixx
+udp://@232.0.10.157:10000?sources=87.141.215.251
+#EXTINF:-1,TOGGO plus
+udp://@232.0.11.7:10000?sources=87.141.215.251
+#EXTINF:-1,VOXup
+udp://@232.0.10.239:10000?sources=87.141.215.251
+#EXTINF:-1,ARD-alpha HD
+udp://@232.0.20.9:10000?sources=87.141.215.251
+#EXTINF:-1,ZDFinfo HD
+udp://@232.0.20.237:10000?sources=87.141.215.251
+#EXTINF:-1,ZDFinfo
+udp://@232.0.10.237:10000?sources=87.141.215.251
+#EXTINF:-1,Kabel Eins Doku
+udp://@232.0.11.2:10000?sources=87.141.215.251
+#EXTINF:-1,tagesschau24 HD
+udp://@232.0.20.205:10000?sources=87.141.215.251
+#EXTINF:-1,tagesschau24
+udp://@232.0.10.205:10000?sources=87.141.215.251
+#EXTINF:-1,Baden TV
+udp://@232.0.11.35:10000?sources=87.141.215.251
+#EXTINF:-1,Baden TV Süd
+udp://@232.0.11.50:10000?sources=87.141.215.251
+#EXTINF:-1,L-TV
+udp://@232.0.11.8:10000?sources=87.141.215.251
+#EXTINF:-1,Regio TV
+udp://@232.0.11.10:10000?sources=87.141.215.251
+#EXTINF:-1,RTL Rhein-Neckar
+udp://@232.0.10.48:10000?sources=87.141.215.251
+#EXTINF:-1,a.tv
+udp://@232.0.10.4:10000?sources=87.141.215.251
+#EXTINF:-1,allgäu.tv
+udp://@232.0.10.6:10000?sources=87.141.215.251
+#EXTINF:-1,BR Fernsehen Nord
+udp://@232.0.10.25:10000?sources=87.141.215.251
+#EXTINF:-1,NIEDERBAYERN TV Deggendorf - Straubing
+udp://@232.0.10.47:10000?sources=87.141.215.251
+#EXTINF:-1,Franken Fernsehen
+udp://@232.0.10.64:10000?sources=87.141.215.251
+#EXTINF:-1,tv.ingolstadt
+udp://@232.0.10.75:10000?sources=87.141.215.251
+#EXTINF:-1,NIEDERBAYERN TV Landshut
+udp://@232.0.10.76:10000?sources=87.141.215.251
+#EXTINF:-1,münchen.tv
+udp://@232.0.10.100:10000?sources=87.141.215.251
+#EXTINF:-1,Oberpfalz TV
+udp://@232.0.10.113:10000?sources=87.141.215.251
+#EXTINF:-1,RFO
+udp://@232.0.10.132:10000?sources=87.141.215.251
+#EXTINF:-1,RTL Bayern
+udp://@232.0.10.39:10000?sources=87.141.215.251
+#EXTINF:-1,SAT.1 Bayern
+udp://@232.0.10.147:10000?sources=87.141.215.251
+#EXTINF:-1,NIEDERBAYERN TV Passau
+udp://@232.0.10.213:10000?sources=87.141.215.251
+#EXTINF:-1,TV Oberfranken
+udp://@232.0.10.215:10000?sources=87.141.215.251
+#EXTINF:-1,TV Mainfranken
+udp://@232.0.10.218:10000?sources=87.141.215.251
+#EXTINF:-1,TVA Ostbayern
+udp://@232.0.10.219:10000?sources=87.141.215.251
+#EXTINF:-1,ALEX Berlin
+udp://@232.0.10.197:10000?sources=87.141.215.251
+#EXTINF:-1,rbb fernsehen Brandenburg
+udp://@232.0.10.130:10000?sources=87.141.215.251
+#EXTINF:-1,RTL Bremen & Niedersachsen
+udp://@232.0.10.137:10000?sources=87.141.215.251
+#EXTINF:-1,SAT.1 Niedersachsen und Bremen
+udp://@232.0.10.152:10000?sources=87.141.215.251
+#EXTINF:-1,NDR Fernsehen Hamburg
+udp://@232.0.10.105:10000?sources=87.141.215.251
+#EXTINF:-1,NDR Fernsehen Schleswig-Holstein
+udp://@232.0.10.107:10000?sources=87.141.215.251
+#EXTINF:-1,RTL Hamburg & Schleswig-Holstein
+udp://@232.0.10.139:10000?sources=87.141.215.251
+#EXTINF:-1,SAT.1 Hamburg und Schleswig-Holstein
+udp://@232.0.10.151:10000?sources=87.141.215.251
+#EXTINF:-1,Rhein-Main TV
+udp://@232.0.11.37:10000?sources=87.141.215.251
+#EXTINF:-1,RTL Hessen
+udp://@232.0.10.138:10000?sources=87.141.215.251
+#EXTINF:-1,NDR Fernsehen Mecklenburg-Vorpommern
+udp://@232.0.10.106:10000?sources=87.141.215.251
+#EXTINF:-1,RTL Nordrhein-Westfalen
+udp://@232.0.10.142:10000?sources=87.141.215.251
+#EXTINF:-1,SAT.1 Nordrhein-Westfalen
+udp://@232.0.10.153:10000?sources=87.141.215.251
+#EXTINF:-1,Studio 47
+udp://@232.0.11.36:10000?sources=87.141.215.251
+#EXTINF:-1,WDR Fernsehen Aachen
+udp://@232.0.10.223:10000?sources=87.141.215.251
+#EXTINF:-1,WDR Fernsehen Bielefeld
+udp://@232.0.10.224:10000?sources=87.141.215.251
+#EXTINF:-1,WDR Fernsehen Bonn
+udp://@232.0.10.225:10000?sources=87.141.215.251
+#EXTINF:-1,WDR Fernsehen Dortmund
+udp://@232.0.10.226:10000?sources=87.141.215.251
+#EXTINF:-1,WDR Fernsehen Duisburg
+udp://@232.0.10.227:10000?sources=87.141.215.251
+#EXTINF:-1,WDR Fernsehen Düsseldorf
+udp://@232.0.10.228:10000?sources=87.141.215.251
+#EXTINF:-1,WDR Fernsehen Essen
+udp://@232.0.10.229:10000?sources=87.141.215.251
+#EXTINF:-1,WDR Fernsehen Münster
+udp://@232.0.10.230:10000?sources=87.141.215.251
+#EXTINF:-1,WDR Fernsehen Siegen
+udp://@232.0.10.231:10000?sources=87.141.215.251
+#EXTINF:-1,WDR Fernsehen Wuppertal
+udp://@232.0.10.232:10000?sources=87.141.215.251
+#EXTINF:-1,OK4
+udp://@232.0.11.41:10000?sources=87.141.215.251
+#EXTINF:-1,OK54 Trier
+udp://@232.0.11.31:10000?sources=87.141.215.251
+#EXTINF:-1,OK Weinstraße
+udp://@232.0.11.40:10000?sources=87.141.215.251
+#EXTINF:-1,OK-TV Ludwigshafen
+udp://@232.0.11.32:10000?sources=87.141.215.251
+#EXTINF:-1,OK:TV Mainz
+udp://@232.0.11.39:10000?sources=87.141.215.251
+#EXTINF:-1,SAT.1 Rheinland-Pfalz und Hessen
+udp://@232.0.10.154:10000?sources=87.141.215.251
+#EXTINF:-1,Chemnitz Fernsehen
+udp://@232.0.11.33:10000?sources=87.141.215.251
+#EXTINF:-1,Dresden Fernsehen
+udp://@232.0.11.34:10000?sources=87.141.215.251
+#EXTINF:-1,Leipzig Fernsehen
+udp://@232.0.11.42:10000?sources=87.141.215.251
+#EXTINF:-1,MDR-Fernsehen Sachsen-Anhalt
+udp://@232.0.10.94:10000?sources=87.141.215.251
+#EXTINF:-1,MDR-Fernsehen Thüringen
+udp://@232.0.10.95:10000?sources=87.141.215.251
