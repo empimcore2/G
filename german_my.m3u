@@ -1,0 +1,327 @@
+#EXTM3U
+#EXTINF:-1,(1) Sat.1
+rtp://@239.35.20.20:10000
+
+#EXTINF:-1,(2) Sat.1 Gold
+rtp://@239.35.20.24:10000
+
+#EXTINF:-1,(3) RTL
+rtp://@239.35.20.10:10000
+
+#EXTINF:-1,(4) RTLZWEI
+rtp://@239.35.20.22:10000
+
+#EXTINF:-1,(5) RTLplus
+rtp://@239.35.20.57:10000
+
+#EXTINF:-1,(6) RTLup
+rtp://87.141.215.251@232.0.10.240:10000
+
+#EXTINF:-1,(7) RTLNITRO
+rtp://@239.35.20.59:10000
+
+#EXTINF:-1,(8) Super RTL
+rtp://@239.35.20.39:10000
+
+#EXTINF:-1,(9) TOGGOplus
+rtp://87.141.215.251@232.0.11.7:10000
+
+#EXTINF:-1,(10) ProSieben
+rtp://@239.35.20.21:10000
+
+#EXTINF:-1,(11) ProSieben MAXX
+rtp://@239.35.20.33:10000
+
+#EXTINF:-1,(12) VOX
+rtp://@239.35.20.11:10000
+
+#EXTINF:-1,(13) VOXup
+rtp://87.141.215.251@232.0.10.239:10000
+
+#EXTINF:-1,(14) Kabel 1
+rtp://@239.35.20.38:10000
+
+#EXTINF:-1,(15) kabel eins Doku
+rtp://@239.35.20.67:10000
+
+#EXTINF:-1,(16) Das Erste HD
+rtp://@239.35.10.1:10000
+
+#EXTINF:-1,(17) ZDF HD
+rtp://@239.35.10.2:10000
+
+#EXTINF:-1,(18) MDR HD
+rtp://@239.35.10.61:10000
+
+#EXTINF:-1,(19) NDR HD
+rtp://@239.35.10.50:10000
+
+#EXTINF:-1,(20) WDR HD
+rtp://@239.35.10.53:10000
+
+#EXTINF:-1,(21) tagesschau24 HD
+rtp://@239.35.10.63:10000
+
+#EXTINF:-1,(22) PearlTV HD
+https://ythls.armelin.one/channel/UCp0urejlDaYz4G8xpTxdIvw.m3u8
+
+#EXTINF:-1,(23) KiKA HD
+rtp://@239.35.10.11:10000
+
+#EXTINF:-1,(24) 3sat HD
+rtp://@239.35.10.47:10000
+
+#EXTINF:-1,(25) n-tv
+rtp://@239.35.20.47:10000
+
+#EXTINF:-1,(26) PHOENIX HD
+rtp://@239.35.10.48:10000
+
+#EXTINF:-1,(27) zdf_neo HD
+rtp://@239.35.10.55:10000
+
+#EXTINF:-1,(28) BR Süd HD
+rtp://@239.35.10.49:10000
+
+#EXTINF:-1,(29) BR Süd HD
+rtp://87.141.215.251@232.0.20.26:10000
+
+#EXTINF:-1,(30) BR Süd SD
+rtp://87.141.215.251@232.0.10.26:10000
+
+#EXTINF:-1,(31) hr HD
+rtp://@239.35.10.60:10000
+
+#EXTINF:-1,(32) hr HD
+rtp://87.141.215.251@232.0.20.71:10000
+
+#EXTINF:-1,(33) hr SD
+rtp://87.141.215.251@232.0.10.71:10000
+
+#EXTINF:-1,(34) Radio Bremen TV HD
+rtp://87.141.215.251@232.0.20.125:10000
+
+#EXTINF:-1,(35) rbb Berlin HD
+rtp://@239.35.10.62:10000
+
+#EXTINF:-1,(36) SR HD
+rtp://@239.35.10.64:10000
+
+#EXTINF:-1,(37) SR SD
+rtp://87.141.215.251@232.0.10.200:10000
+
+#EXTINF:-1,(38) SWR BW HD
+rtp://@239.35.10.51:10000
+
+#EXTINF:-1,(39) SWR RP HD
+rtp://@239.35.10.52:10000
+
+#EXTINF:-1,(40) ARTE HD
+rtp://@239.35.10.3:10000
+
+#EXTINF:-1,(41) ONE HD
+rtp://@239.35.10.58:10000
+
+#EXTINF:-1,(42) sixx
+rtp://@239.35.20.9:10000
+
+#EXTINF:-1,(43) ARD-alpha HD
+rtp://87.141.215.251@232.0.20.9:10000
+
+#EXTINF:-1,(44) DW
+rtp://@239.35.20.44:10000
+
+#EXTINF:-1,(45) ZDFinfo HD
+rtp://@239.35.10.56:10000
+
+#EXTINF:-1,(46) BR Nord
+rtp://@239.35.10.13:10000
+
+#EXTINF:-1,(47) MDR Sachsen HD
+rtp://87.141.215.251@232.0.20.93:10000
+
+#EXTINF:-1,(48) MDR S-Anhalt
+rtp://@239.35.10.29:10000
+
+#EXTINF:-1,(49) MDR Thüringen
+rtp://@239.35.10.30:10000
+
+#EXTINF:-1,(50) NDR Hamburg
+rtp://@239.35.10.31:10000
+
+#EXTINF:-1,(51) NDR Mecklenburg-Vorpommern
+rtp://@239.35.10.32:10000
+
+#EXTINF:-1,(52) NDR Schleswig-Holstein
+rtp://@239.35.10.33:10000
+
+#EXTINF:-1,(53) rbb Brandenburg
+rtp://@239.35.10.34:10000
+
+#EXTINF:-1,(54) RTL NRW
+rtp://@239.35.20.5:10000
+
+#EXTINF:-1,(55) RTL HB NDS
+rtp://@239.35.20.6:10000
+
+#EXTINF:-1,(56) Sat.1 Bayern
+rtp://@239.35.20.8:10000
+
+#EXTINF:-1,(57) Sat.1 HH SH
+rtp://@239.35.20.12:10000
+
+#EXTINF:-1,(58) Sat.1 NDS Bremen
+rtp://@239.35.20.13:10000
+
+#EXTINF:-1,(59) Sat.1 NRW
+rtp://@239.35.20.14:10000
+
+#EXTINF:-1,(60) Sat.1 RhlPf Hessen
+rtp://@239.35.20.15:10000
+
+#EXTINF:-1,(61) WDR Aachen
+rtp://@239.35.10.35:10000
+
+#EXTINF:-1,(62) WDR Bielefeld
+rtp://@239.35.10.36:10000
+
+#EXTINF:-1,(63) WDR Bonn
+rtp://@239.35.10.37:10000
+
+#EXTINF:-1,(64) WDR Dortmund
+rtp://@239.35.10.38:10000
+
+#EXTINF:-1,(65) WDR Duisburg
+rtp://@239.35.10.39:10000
+
+#EXTINF:-1,(66) WDR Düsseldorf
+rtp://@239.35.10.40:10000
+
+#EXTINF:-1,(67) WDR Essen
+rtp://@239.35.10.41:10000
+
+#EXTINF:-1,(68) WDR Münster
+rtp://@239.35.10.42:10000
+
+#EXTINF:-1,(69) WDR Siegen
+rtp://@239.35.10.43:10000
+
+#EXTINF:-1,(70) WDR Wuppertal
+rtp://@239.35.10.44:10000
+
+#EXTINF:-1,(71) RTL HH SH
+rtp://@239.35.20.63:10000
+
+#EXTINF:-1,(72) RTL Hessen
+rtp://@239.35.20.64:10000
+
+#EXTINF:-1,(73) Regio TV
+rtp://@239.35.50.63:10000
+
+#EXTINF:-1,(74) a.tv
+rtp://@239.35.50.39:10000
+
+#EXTINF:-1,(75) allgäu.tv
+rtp://@239.35.50.53:10000
+
+#EXTINF:-1,(76) Donau TV
+rtp://@239.35.50.23:10000
+
+#EXTINF:-1,(77) Franken Fernsehen
+rtp://@239.35.50.43:10000
+
+#EXTINF:-1,(78) intv
+rtp://@239.35.50.1:10000
+
+#EXTINF:-1,(79) ISAR TV
+rtp://@239.35.50.42:10000
+
+#EXTINF:-1,(80) main.tv
+rtp://@239.35.50.49:10000
+
+#EXTINF:-1,(81) münchen.tv
+rtp://@239.35.50.6:10000
+
+#EXTINF:-1,(82) Oberpfalz TV
+rtp://@239.35.50.50:10000
+
+#EXTINF:-1,(83) RFO
+rtp://@239.35.50.51:10000
+
+#EXTINF:-1,(84) TRP1
+rtp://@239.35.50.52:10000
+
+#EXTINF:-1,(85) TV Oberfranken
+rtp://@239.35.50.54:10000
+
+#EXTINF:-1,(86) tvm Schweinfurt
+rtp://@239.35.50.55:10000
+
+#EXTINF:-1,(87) tvm Würzburg
+rtp://@239.35.50.56:10000
+
+#EXTINF:-1,(88) TVA Ostbayern
+rtp://@239.35.50.57:10000
+
+#EXTINF:-1,(89) ALEX Berlin
+rtp://@239.35.50.48:10000
+
+#EXTINF:-1,(90) Rhein-Main TV
+rtp://@239.35.50.69:10000
+
+#EXTINF:-1,(91) CityVision
+rtp://@239.35.50.47:10000
+
+#EXTINF:-1,(92) Studio 47
+rtp://@239.35.50.68:10000
+
+#EXTINF:-1,(93) DRF1
+rtp://@239.35.50.15:10000
+
+#EXTINF:-1,(94) OK54 Trier
+rtp://@239.35.50.64:10000
+
+#EXTINF:-1,(95) OK-TV Ludwigshafen
+rtp://@239.35.50.65:10000
+
+#EXTINF:-1,(96) Chemnitz Fernsehen
+rtp://@239.35.50.66:10000
+
+#EXTINF:-1,(97) Dresden Fernsehen
+rtp://@239.35.50.67:10000
+
+#EXTINF:-1,(98) ServusTV HD
+https://stv-live.akamaized.net/hls/live/2031012/lingeoSTVDEwebPri/master.m3u8
+
+#EXTINF:-1,(99) Welt der Wunder
+https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8
+
+#EXTINF:-1,(100) ANIXE HD
+https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
+
+#EXTINF:-1,(101) Deutsche Welle
+https://dwamdstream111.akamaized.net/hls/live/2017972/dwstream111/index.m3u8
+
+#EXTINF:-1,(102) H1 Shop
+https://5857499ee635b.streamlock.net/heinstv-live/_definst_/smil:livestream.smil/playlist.m3u8
+
+#EXTINF:-1,(103) ServusTV HD (AT)
+https://stv-live.akamaized.net/hls/live/2031011/lingeoSTVATwebPri/master.m3u8
+
+#EXTINF:-1,(104) Krone.TV
+https://kronetv.mdn.ors.at/out/u/kronetv-nodrm.m3u8
+
+#EXTINF:-1,(105) Disney Channel
+http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/59912.ts
+
+#EXTINF:-1,(106) Disney Channel
+http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/70397.ts
+
+#EXTINF:-1,(107) Okto
+https://cdn3.wowza.com/1/MHFtazJReW5rOFhP/N2NWNDZ2/hls/live/playlist.m3u8
+
+#EXTINF:-1,(108) Nickelodeon
+https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/nick1999/master/nick1999.m3u8
+
+#EXTINF:-1,(108) Nick. Jr
+https://ucdn.beetv.kz/btv/live/hls/000000449.m3u8
