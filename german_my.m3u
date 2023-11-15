@@ -317,8 +317,8 @@ https://kronetv.mdn.ors.at/out/u/kronetv-nodrm.m3u8
 #EXTINF:-1 tvg-name="Okto" tvg-chno="106" group-title="MagentaTV",Okto
 https://cdn3.wowza.com/1/MHFtazJReW5rOFhP/N2NWNDZ2/hls/live/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Okto" tvg-chno="107" group-title="MagentaTV",Channel 21
-https://www.youtube.com/@Channel21online/live
+#EXTINF:-1 tvg-name="Channel21" tvg-chno="107" group-title="MagentaTV",Channel 21
+https://raw.githubusercontent.com/empimcore/G/main/channel21/index.m3u8
 
 #EXTINF:-1 tvg-name="Barbie 2023" tvg-chno="108",Barbie 2023
 https://s0.goodstream.uno/abfa8cff8b3a05a5/video.mp4?download_token=27486bab41f3f61d453a71bb25e3a2706ad0e052a20b195f153ba85991a0bc3c
