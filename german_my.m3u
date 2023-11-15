@@ -325,3 +325,6 @@ https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/nick1999/master/nick1999.m3u8
 
 #EXTINF:-1 tvg-name="Nick. Jr" tvg-chno="109",(109) Nick. Jr
 https://ucdn.beetv.kz/btv/live/hls/000000449.m3u8
+
+#EXTINF:-1 tvg-name="Barbie 2023" tvg-chno="110",Barbie 2023
+https://s0.goodstream.uno/abfa8cff8b3a05a5/video.mp4?download_token=27486bab41f3f61d453a71bb25e3a2706ad0e052a20b195f153ba85991a0bc3c
