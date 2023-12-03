@@ -53,10 +53,10 @@ https://ythls.armelin.one/channel/UCp0urejlDaYz4G8xpTxdIvw.m3u8
 #EXTINF:-1 tvg-name="ANIXE HD" tvg-chno="18" group-title="MagentaTV",ANIXE HD
 https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
 
-#EXTINF:-1 tvg-name="ServusTV HD" tvg-chno="19" group-title="MagentaTV",(98) ServusTV HD
+#EXTINF:-1 tvg-name="ServusTV HD" tvg-chno="19" group-title="MagentaTV",ServusTV HD
 https://stv-live.akamaized.net/hls/live/2031012/lingeoSTVDEwebPri/master.m3u8
 
-#EXTINF:-1 tvg-name="ServusTV HD (AT)" tvg-chno="20" group-title="MagentaTV",(103) ServusTV HD (AT)
+#EXTINF:-1 tvg-name="ServusTV HD (AT)" tvg-chno="20" group-title="MagentaTV",ServusTV HD (AT)
 https://stv-live.akamaized.net/hls/live/2031011/lingeoSTVATwebPri/master.m3u8
 
 #EXTINF:-1 tvg-name="Disney Channel" tvg-chno="21" group-title="MagentaTV",Disney Channel
@@ -318,7 +318,28 @@ https://kronetv.mdn.ors.at/out/u/kronetv-nodrm.m3u8
 https://cdn3.wowza.com/1/MHFtazJReW5rOFhP/N2NWNDZ2/hls/live/playlist.m3u8
 
 #EXTINF:-1 tvg-name="Channel21" tvg-chno="107" group-title="MagentaTV",Channel 21
-https://raw.githubusercontent.com/empimcore/G/main/channel21/index.m3u8
+http://192.168.3.220:8004/?path=https://www.youtube.com/watch?v=0Vz3bK6K0f4
 
 #EXTINF:-1 tvg-name="Barbie 2023" tvg-chno="108" group-title="MagentaTV",Barbie 2023
-https://s0.goodstream.uno/abfa8cff8b3a05a5/video.mp4?download_token=27486bab41f3f61d453a71bb25e3a2706ad0e052a20b195f153ba85991a0bc3c
+https://861138102.tapecontent.net/radosgw/3r9GrvjKMmhdz3B/ReFjgHWBsC5f5S48_Wtr6h48_AuimKsZrahUTn5AV9Uxoxp3f6PeUP0Ywqpsd6UPN2YP-dIOrWhbZOoG0iCfvNFr4IoedBjC9RsrpXYBCwvm89KZpgCsysV-2Ix6riw7tMOLaTZ3Sw1U-nLyB8-_ClxbQltD95N5k4OtaE5gMzQiNwOLEgyhTL8lc5m8ksKcIrnd0DBH481TdbvH85xNSFcXpkuj5YyctdPyvFRvjKnRCZ09YwzDlP600g6WAiDhMy3KsQDSRPQiLb1mN0VNyiuXJNfjiJVxjJJ_BK87bxkmjJkl_CwsVydodH-tjGWsoFbKneIOOFN_V9DZ/Barbie.2023.German.720p.BluRay.x264.ZD.doomovies.net.mp4?stream=1
+
+#EXTINF:-1 tvg-name="Disney Channel" tvg-chno="109" group-title="MagentaTV",Disney Channel
+https://s6.hopslan.com/disneyx1/index.m3u8
+
+#EXTINF:-1 channel-id="pluto-622f6faf65be650007f57aab" tvg-id="622f6faf65be650007f57aab" tvg-logo="https://images.pluto.tv/channels/622f6faf65be650007f57aab/colorLogoPNG.png" tvg-chno="110" group-title="MagentaTV" ,Hausmeister Krause / SP
+https://i.mjh.nz/PlutoTV/622f6faf65be650007f57aab-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-622f40c901d4b70007ad7609" tvg-id="622f40c901d4b70007ad7609" tvg-logo="https://images.pluto.tv/channels/622f40c901d4b70007ad7609/colorLogoPNG.png" tvg-chno="111" group-title="MagentaTV" , Sabrina - Total verhext! / SP
+https://i.mjh.nz/PlutoTV/622f40c901d4b70007ad7609-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5dbc327d0451770009ed7577" tvg-id="5dbc327d0451770009ed7577" tvg-logo="https://images.pluto.tv/channels/5dbc327d0451770009ed7577/colorLogoPNG.png" tvg-chno="112" group-title="MagentaTV" , Simsalabim Sabrina / SP
+https://i.mjh.nz/PlutoTV/5dbc327d0451770009ed7577-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5ad9b7aae738977e2c312132" tvg-id="5ad9b7aae738977e2c312132" tvg-logo="https://images.pluto.tv/channels/5ad9b7aae738977e2c312132/colorLogoPNG.png" tvg-chno="113" group-title="MagentaTV" , World Poker Tour / SP
+https://i.mjh.nz/PlutoTV/5ad9b7aae738977e2c312132-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-6093f2ae4dd5ab0007d1ff9d" tvg-id="6093f2ae4dd5ab0007d1ff9d" tvg-logo="https://images.pluto.tv/channels/6093f2ae4dd5ab0007d1ff9d/colorLogoPNG.png" tvg-chno="114" group-title="MagentaTV" , Motorvision / SP
+https://i.mjh.nz/PlutoTV/6093f2ae4dd5ab0007d1ff9d-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5f760c3d41aa2d0007bfde19" tvg-id="5f760c3d41aa2d0007bfde19" tvg-logo="https://images.pluto.tv/channels/5f760c3d41aa2d0007bfde19/colorLogoPNG.png" tvg-chno="115" group-title="MagentaTV" , Auto Motor Sport / SP
+https://i.mjh.nz/PlutoTV/5f760c3d41aa2d0007bfde19-alt.m3u8
