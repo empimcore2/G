@@ -68,8 +68,8 @@ http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/70397.ts
 #EXTINF:-1 tvg-name="Nickelodeon" tvg-chno="23" group-title="MagentaTV",Nickelodeon
 https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/nick1999/master/nick1999.m3u8
 
-#EXTINF:-1 tvg-name="Nick. Jr" tvg-chno="24" group-title="MagentaTV",Nick. Jr
-https://ucdn.beetv.kz/btv/live/hls/000000449.m3u8
+#EXTINF:-1 channel-id="pluto-5ede45451dce190007ef9ff2" tvg-id="5ede45451dce190007ef9ff2" tvg-logo="https://images.pluto.tv/channels/5ede45451dce190007ef9ff2/colorLogoPNG.png" tvg-chno="24" tvg-name="Nick Jr." group-title="MagentaTV",Nick Jr. Pluto TV
+https://i.mjh.nz/PlutoTV/5ede45451dce190007ef9ff2-alt.m3u8
 
 #EXTINF:-1 tvg-name="Welt der Wunder" tvg-chno="25" group-title="MagentaTV",Welt der Wunder
 https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8
@@ -326,20 +326,29 @@ https://861138102.tapecontent.net/radosgw/3r9GrvjKMmhdz3B/ReFjgHWBsC5f5S48_Wtr6h
 #EXTINF:-1 tvg-name="Disney Channel" tvg-chno="109" group-title="MagentaTV",Disney Channel
 https://s6.hopslan.com/disneyx1/index.m3u8
 
-#EXTINF:-1 channel-id="pluto-622f6faf65be650007f57aab" tvg-id="622f6faf65be650007f57aab" tvg-logo="https://images.pluto.tv/channels/622f6faf65be650007f57aab/colorLogoPNG.png" tvg-chno="110" group-title="MagentaTV" ,Hausmeister Krause / SP
+#EXTINF:-1 channel-id="pluto-622f6faf65be650007f57aab" tvg-id="622f6faf65be650007f57aab" tvg-logo="https://images.pluto.tv/channels/622f6faf65be650007f57aab/colorLogoPNG.png" tvg-name="Hausmeister Krause" tvg-chno="110" group-title="MagentaTV" ,Hausmeister Krause / SP
 https://i.mjh.nz/PlutoTV/622f6faf65be650007f57aab-alt.m3u8
 
-#EXTINF:-1 channel-id="pluto-622f40c901d4b70007ad7609" tvg-id="622f40c901d4b70007ad7609" tvg-logo="https://images.pluto.tv/channels/622f40c901d4b70007ad7609/colorLogoPNG.png" tvg-chno="111" group-title="MagentaTV" , Sabrina - Total verhext! / SP
+#EXTINF:-1 channel-id="pluto-622f40c901d4b70007ad7609" tvg-id="622f40c901d4b70007ad7609" tvg-logo="https://images.pluto.tv/channels/622f40c901d4b70007ad7609/colorLogoPNG.png" tvg-chno="111" tvg-name="Sabrina Total Verhext" group-title="MagentaTV" , Sabrina - Total verhext! / SP
 https://i.mjh.nz/PlutoTV/622f40c901d4b70007ad7609-alt.m3u8
 
-#EXTINF:-1 channel-id="pluto-5dbc327d0451770009ed7577" tvg-id="5dbc327d0451770009ed7577" tvg-logo="https://images.pluto.tv/channels/5dbc327d0451770009ed7577/colorLogoPNG.png" tvg-chno="112" group-title="MagentaTV" , Simsalabim Sabrina / SP
+#EXTINF:-1 channel-id="pluto-5dbc327d0451770009ed7577" tvg-id="5dbc327d0451770009ed7577" tvg-logo="https://images.pluto.tv/channels/5dbc327d0451770009ed7577/colorLogoPNG.png" tvg-chno="112" tvg-name="Simsalabim Sabrina" group-title="MagentaTV" , Simsalabim Sabrina / SP
 https://i.mjh.nz/PlutoTV/5dbc327d0451770009ed7577-alt.m3u8
 
-#EXTINF:-1 channel-id="pluto-5ad9b7aae738977e2c312132" tvg-id="5ad9b7aae738977e2c312132" tvg-logo="https://images.pluto.tv/channels/5ad9b7aae738977e2c312132/colorLogoPNG.png" tvg-chno="113" group-title="MagentaTV" , World Poker Tour / SP
+#EXTINF:-1 channel-id="pluto-5ad9b7aae738977e2c312132" tvg-id="5ad9b7aae738977e2c312132" tvg-logo="https://images.pluto.tv/channels/5ad9b7aae738977e2c312132/colorLogoPNG.png" tvg-chno="113" tvg-name="World Poker Tour" group-title="MagentaTV" , World Poker Tour / SP
 https://i.mjh.nz/PlutoTV/5ad9b7aae738977e2c312132-alt.m3u8
 
-#EXTINF:-1 channel-id="pluto-6093f2ae4dd5ab0007d1ff9d" tvg-id="6093f2ae4dd5ab0007d1ff9d" tvg-logo="https://images.pluto.tv/channels/6093f2ae4dd5ab0007d1ff9d/colorLogoPNG.png" tvg-chno="114" group-title="MagentaTV" , Motorvision / SP
+#EXTINF:-1 channel-id="pluto-6093f2ae4dd5ab0007d1ff9d" tvg-id="6093f2ae4dd5ab0007d1ff9d" tvg-logo="https://images.pluto.tv/channels/6093f2ae4dd5ab0007d1ff9d/colorLogoPNG.png" tvg-chno="114" tvg-name="Motorvision" group-title="MagentaTV",Motorvision / SP
 https://i.mjh.nz/PlutoTV/6093f2ae4dd5ab0007d1ff9d-alt.m3u8
 
-#EXTINF:-1 channel-id="pluto-5f760c3d41aa2d0007bfde19" tvg-id="5f760c3d41aa2d0007bfde19" tvg-logo="https://images.pluto.tv/channels/5f760c3d41aa2d0007bfde19/colorLogoPNG.png" tvg-chno="115" group-title="MagentaTV" , Auto Motor Sport / SP
+#EXTINF:-1 channel-id="pluto-5f760c3d41aa2d0007bfde19" tvg-id="5f760c3d41aa2d0007bfde19" tvg-logo="https://images.pluto.tv/channels/5f760c3d41aa2d0007bfde19/colorLogoPNG.png" tvg-chno="115" tvg-name="Autor Motor Sport" group-title="MagentaTV",Auto Motor Sport / SP
 https://i.mjh.nz/PlutoTV/5f760c3d41aa2d0007bfde19-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-6270ea4345f5bc0007823048" tvg-id="6270ea4345f5bc0007823048" tvg-logo="https://images.pluto.tv/channels/6270ea4345f5bc0007823048/colorLogoPNG.png" tvg-name="Fury" tvg-chno="116" group-title="MagentaTV",Fury / SP
+https://i.mjh.nz/PlutoTV/6270ea4345f5bc0007823048-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5e8b580a233dc90007f0cb9d" tvg-id="5e8b580a233dc90007f0cb9d" tvg-logo="https://images.pluto.tv/channels/5e8b580a233dc90007f0cb9d/colorLogoPNG.png" tvg-name="iCarly" tvg-chno="117" group-title="MagentaTV",iCarly
+https://i.mjh.nz/PlutoTV/5e8b580a233dc90007f0cb9d-alt.m3u8
+
+#EXTINF:-1 channel-id="pluto-5e8b5ba20af628000707cee3" tvg-id="5e8b5ba20af628000707cee3" tvg-logo="https://images.pluto.tv/channels/5e8b5ba20af628000707cee3/colorLogoPNG.png" tvg-name="Sam & Cat" tvg-chno="118" group-title="MagentaTV",Sam & Cat
+https://i.mjh.nz/PlutoTV/5e8b5ba20af628000707cee3-alt.m3u8
