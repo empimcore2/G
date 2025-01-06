@@ -1,40 +1,40 @@
-#EXTINF:-1 tvg-id="PearlTV HD" tvg-name="PearlTV HD" tvg-chno="458" tvg-logo="https://cdn.hd-plus.de/senderlogos/bright-cropped/24524-2.png" group-title="NotPlutoTV",PearlTV HD
+#EXTINF:-1 tvg-id="PearlTV HD" tvg-name="PearlTV HD" tvg-chno="1" tvg-logo="https://cdn.hd-plus.de/senderlogos/bright-cropped/24524-2.png" group-title="NotPlutoTV",PearlTV HD
 https://ythls.armelin.one/channel/UCp0urejlDaYz4G8xpTxdIvw.m3u8
 
-#EXTINF:-1 tvg-name="ANIXE HD" tvg-chno="459" group-title="NotPlutoTV",ANIXE HD
+#EXTINF:-1 tvg-name="ANIXE HD" tvg-chno="2" group-title="NotPlutoTV",ANIXE HD
 https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
 
-#EXTINF:-1 tvg-name="ServusTV HD" tvg-chno="460" group-title="NotPlutoTV",ServusTV HD
+#EXTINF:-1 tvg-name="ServusTV HD" tvg-chno="3" group-title="NotPlutoTV",ServusTV HD
 https://stv-live.akamaized.net/hls/live/2031012/lingeoSTVDEwebPri/master.m3u8
 
-#EXTINF:-1 tvg-name="ServusTV HD (AT)" tvg-chno="461" group-title="NotPlutoTV",ServusTV HD (AT)
+#EXTINF:-1 tvg-name="ServusTV HD (AT)" tvg-chno="4" group-title="NotPlutoTV",ServusTV HD (AT)
 https://stv-live.akamaized.net/hls/live/2031011/lingeoSTVATwebPri/master.m3u8
 
-#EXTINF:-1 tvg-name="Disney Channel" tvg-chno="462" group-title="NotPlutoTV",Disney Channel
+#EXTINF:-1 tvg-name="Disney Channel" tvg-chno="5" group-title="NotPlutoTV",Disney Channel
 http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/59912.ts
 
-#EXTINF:-1 tvg-name="Disney Channel FHD" tvg-chno="463" group-title="NotPlutoTV",Disney Channel FHD
+#EXTINF:-1 tvg-name="Disney Channel FHD" tvg-chno="6" group-title="NotPlutoTV",Disney Channel FHD
 http://pro.xviptv.com:25443/live/V195BBOfN2T4T/xc1pB4UWLn/70397.ts
 
-#EXTINF:-1 tvg-name="Nickelodeon" tvg-chno="464" group-title="NotPlutoTV",Nickelodeon
+#EXTINF:-1 tvg-name="Nickelodeon" tvg-chno="7" group-title="NotPlutoTV",Nickelodeon
 https://0d26a00dfbb1.airspace-cdn.cbsivideo.com/nick1999/master/nick1999.m3u8
 
-#EXTINF:-1 tvg-name="Welt der Wunder" tvg-chno="465" group-title="NotPlutoTV",Welt der Wunder
+#EXTINF:-1 tvg-name="Welt der Wunder" tvg-chno="8" group-title="NotPlutoTV",Welt der Wunder
 https://wdw.iptv-playoutcenter.de/wdw/wdw1/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Deutsche Welle" tvg-chno="466" group-title="NotPlutoTV",Deutsche Welle
+#EXTINF:-1 tvg-name="Deutsche Welle" tvg-chno="9" group-title="NotPlutoTV",Deutsche Welle
 https://dwamdstream111.akamaized.net/hls/live/2017972/dwstream111/index.m3u8
 
-#EXTINF:-1 tvg-name="H1 Shop" tvg-chno="467" group-title="NotPlutoTV",H1 Shop
+#EXTINF:-1 tvg-name="H1 Shop" tvg-chno="10" group-title="NotPlutoTV",H1 Shop
 https://5857499ee635b.streamlock.net/heinstv-live/_definst_/smil:livestream.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Krone.TV" tvg-chno="468" group-title="NotPlutoTV",Krone.TV
+#EXTINF:-1 tvg-name="Krone.TV" tvg-chno="11" group-title="NotPlutoTV",Krone.TV
 https://kronetv.mdn.ors.at/out/u/kronetv-nodrm.m3u8
 
-#EXTINF:-1 tvg-name="Okto" tvg-chno="469" group-title="NotPlutoTV",Okto
+#EXTINF:-1 tvg-name="Okto" tvg-chno="12" group-title="NotPlutoTV",Okto
 https://cdn3.wowza.com/1/MHFtazJReW5rOFhP/N2NWNDZ2/hls/live/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Disney Channel" tvg-chno="470" group-title="NotPlutoTV",Disney Channel
+#EXTINF:-1 tvg-name="Disney Channel" tvg-chno="13" group-title="NotPlutoTV",Disney Channel
 https://s6.hopslan.com/disneyx1/index.m3u8
 
 
